@@ -62,4 +62,4 @@
 |---|---|---|
 | :sweat_drops: `:sweat_drops:` | :notes: `:notes:` | :musical_note: `:musical_note:` |
 | :fire: `:fire:` | :hankey: `:hankey:` | :poop: `:poop:` |
-| :shit: `:shit:` |
+| :shit: `:shit:` | :+1: `:+1:` |
