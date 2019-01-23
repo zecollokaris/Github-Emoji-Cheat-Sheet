@@ -2,4 +2,4 @@
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
-| :blush: `:blush:` 
+| :blush: `:blush:` | :smiley: `:smiley:` |
