@@ -23,7 +23,9 @@
 | :unamused: `:unamused:` | :sweat_smile: `:sweat_smile:` | :sweat: `:sweat:` |
 |---|---|---|
 | :disappointed_relieved: `:disappointed_relieved:` | :weary: `:weary:` | :pensive: `:pensive:` |
-
+|---|---|---|
 | :disappointed: `:disappointed:` | :confounded: `:confounded:` | :fearful: `:fearful:` |
-
+|---|---|---|
 | :cold_sweat: `:cold_sweat:` | :persevere: `:persevere:` | :cry: `:cry:` |
+|---|---|---|
+| :sob: `:sob:` |
