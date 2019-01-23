@@ -24,4 +24,4 @@
 |---|---|---|
 | :disappointed_relieved: `:disappointed_relieved:` | :weary: `:weary:` | :pensive: `:pensive:` |
 
-| :disappointed: `:disappointed:` | :confounded: `:confounded:` |
+| :disappointed: `:disappointed:` | :confounded: `:confounded:` | :fearful: `:fearful:` |
