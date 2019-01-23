@@ -19,3 +19,4 @@
 | :anguished: `:anguished:` | :open_mouth: `:open_mouth:` | :grimacing: `:grimacing:` |
 |---|---|---|
 | :confused: `:confused:` | :hushed: `:hushed:` | :expressionless: `:expressionless:` |
+| :unamused: `:unamused:` |
