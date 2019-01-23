@@ -35,4 +35,4 @@
 | :angry: `:angry:` | :rage: `:rage:` | :triumph: `:triumph:` |
 |---|---|---|
 | :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
-| :sunglasses: `:sunglasses:` |
+| :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` |
