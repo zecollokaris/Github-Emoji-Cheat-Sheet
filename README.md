@@ -44,4 +44,4 @@
 |---|---|---|
 | :blue_heart: `:blue_heart:` | :purple_heart: `:purple_heart:` | :heart: `:heart:` |
 | :green_heart: `:green_heart:` | :broken_heart: `:broken_heart:` | :heartbeat: `:heartbeat:` |
-| :green_heart: `:green_heart:` | :green_heart: `:green_heart:` 
+| :green_heart: `:green_heart:` | :green_heart: `:green_heart:` | :heartbeat: `:heartbeat:` |
