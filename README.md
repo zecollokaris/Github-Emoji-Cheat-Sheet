@@ -60,4 +60,4 @@
 |---|---|---|
 | :grey_question: `:grey_question:` | :zzz: `:zzz:` | :dash: `:dash:` |
 |---|---|---|
-| :sweat_drops: `:sweat_drops:` | :notes: `:notes:` |
+| :sweat_drops: `:sweat_drops:` | :notes: `:notes:` | :musical_note: `:musical_note:` |
