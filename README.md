@@ -43,3 +43,4 @@
 | :innocent: `:innocent:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
 |---|---|---|
 | :blue_heart: `:blue_heart:` | :purple_heart: `:purple_heart:` | :heart: `:heart:` |
+| :green_heart: `:green_heart:` | :broken_heart: `:broken_heart:` |
