@@ -29,3 +29,5 @@
 | :cold_sweat: `:cold_sweat:` | :persevere: `:persevere:` | :cry: `:cry:` |
 |---|---|---|
 | :sob: `:sob:` | :joy: `:joy:` | :astonished: `:astonished:` |
+|---|---|---|
+| :scream: `:scream:` 
