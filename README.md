@@ -68,4 +68,4 @@
 |---|---|---|
 | :-1: `:-1:` | :thumbsdown: `:thumbsdown:` | :ok_hand: `:ok_hand:` |
 |---|---|---|
-| :punch: `:punch:` |
+| :punch: `:punch:` | :facepunch: `:facepunch:` | :fist: `:fist:` |
