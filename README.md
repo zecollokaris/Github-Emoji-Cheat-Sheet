@@ -30,4 +30,4 @@
 |---|---|---|
 | :sob: `:sob:` | :joy: `:joy:` | :astonished: `:astonished:` |
 |---|---|---|
-| :scream: `:scream:` | :neckbeard: `:neckbeard:` |
+| :scream: `:scream:` | :neckbeard: `:neckbeard:` | :tired_face: `:tired_face:` |
