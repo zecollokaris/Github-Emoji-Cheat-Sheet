@@ -8,4 +8,4 @@
 |---|---|---|
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
 |---|---|---|
-| :satisfied: `:satisfied:` | :grin: `:grin:` |
+| :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
