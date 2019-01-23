@@ -19,4 +19,7 @@
 | :anguished: `:anguished:` | :open_mouth: `:open_mouth:` | :grimacing: `:grimacing:` |
 |---|---|---|
 | :confused: `:confused:` | :hushed: `:hushed:` | :expressionless: `:expressionless:` |
+|---|---|---|
 | :unamused: `:unamused:` | :sweat_smile: `:sweat_smile:` | :sweat: `:sweat:` |
+|---|---|---|
+| :disappointed_relieved: `:disappointed_relieved:` | :weary: `:weary:` |
