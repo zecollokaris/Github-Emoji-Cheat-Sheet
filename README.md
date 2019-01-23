@@ -38,4 +38,4 @@
 |---|---|---|
 | :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` | :imp: `:imp:` |
 |---|---|---|
-| :smiling_imp: `:smiling_imp:` |
+| :smiling_imp: `:smiling_imp:` | :neutral_face: `:neutral_face:` 
