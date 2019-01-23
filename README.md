@@ -72,4 +72,4 @@
 |---|---|---|
 | :v: `:v:` | :wave: `:wave:` | :hand: `:hand:` |
 |---|---|---|
-| :raised_hand: `:raised_hand:` | :open_hands: `:open_hands:` |
+| :raised_hand: `:raised_hand:` | :open_hands: `:open_hands:` | :point_up: `:point_up:` |
