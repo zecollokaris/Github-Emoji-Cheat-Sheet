@@ -14,4 +14,4 @@
 |---|---|---|
 | :kissing: `:kissing:` | :kissing_smiling_eyes: `:kissing_smiling_eyes:` | :stuck_out_tongue: `:stuck_out_tongue:` |
 | :sleeping: `:sleeping:` | :worried: `:worried:` | :frowning: `:frowning:` |
-| :anguished: `:anguished:` 
+| :anguished: `:anguished:` | :open_mouth: `:open_mouth:` |
