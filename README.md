@@ -32,4 +32,4 @@
 |---|---|---|
 | :scream: `:scream:` | :neckbeard: `:neckbeard:` | :tired_face: `:tired_face:` |
 | :angry: `:angry:` | :rage: `:rage:` | :triumph: `:triumph:` |
-| :sleepy: `:sleepy:` |
+| :sleepy: `:sleepy:` | :yum: `:yum:` |
