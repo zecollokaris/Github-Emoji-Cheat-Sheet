@@ -26,4 +26,4 @@
 
 | :disappointed: `:disappointed:` | :confounded: `:confounded:` | :fearful: `:fearful:` |
 
-| :cold_sweat: `:cold_sweat:` | :persevere: `:persevere:` |
+| :cold_sweat: `:cold_sweat:` | :persevere: `:persevere:` | :cry: `:cry:` |
