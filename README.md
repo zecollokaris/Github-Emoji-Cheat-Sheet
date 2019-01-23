@@ -42,4 +42,4 @@
 |---|---|---|
 | :innocent: `:innocent:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
 |---|---|---|
-| :blue_heart: `:blue_heart:` 
+| :blue_heart: `:blue_heart:` | :purple_heart: `:purple_heart:` |
