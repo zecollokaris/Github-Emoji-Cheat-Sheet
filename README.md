@@ -61,6 +61,11 @@
 | :grey_question: `:grey_question:` | :zzz: `:zzz:` | :dash: `:dash:` |
 |---|---|---|
 | :sweat_drops: `:sweat_drops:` | :notes: `:notes:` | :musical_note: `:musical_note:` |
+|---|---|---|
 | :fire: `:fire:` | :hankey: `:hankey:` | :poop: `:poop:` |
+|---|---|---|
 | :shit: `:shit:` | :+1: `:+1:` | :thumbsup: `:thumbsup:` |
+|---|---|---|
 | :-1: `:-1:` | :thumbsdown: `:thumbsdown:` | :ok_hand: `:ok_hand:` |
+|---|---|---|
+| :punch: `:punch:` |
