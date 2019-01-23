@@ -1,3 +1,3 @@
 **People**
 
-| :bowtie: `:bowtie:` | :smile: `:smile:` |
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
