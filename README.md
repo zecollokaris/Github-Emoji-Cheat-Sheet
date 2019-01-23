@@ -31,3 +31,4 @@
 | :sob: `:sob:` | :joy: `:joy:` | :astonished: `:astonished:` |
 |---|---|---|
 | :scream: `:scream:` | :neckbeard: `:neckbeard:` | :tired_face: `:tired_face:` |
+| :angry: `:angry:` | :rage: `:rage:` |
