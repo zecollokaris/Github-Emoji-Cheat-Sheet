@@ -43,5 +43,14 @@
 | :innocent: `:innocent:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
 |---|---|---|
 | :blue_heart: `:blue_heart:` | :purple_heart: `:purple_heart:` | :heart: `:heart:` |
+|---|---|---|
 | :green_heart: `:green_heart:` | :broken_heart: `:broken_heart:` | :heartbeat: `:heartbeat:` |
+|---|---|---|
 | :green_heart: `:green_heart:` | :green_heart: `:green_heart:` | :heartbeat: `:heartbeat:` |
+|---|---|---|
+| :heartpulse: `:heartpulse:` | :two_hearts: `:two_hearts:` | :revolving_hearts: `:revolving_hearts:` |
+| :cupid: `:cupid:` | :sparkling_heart: `:sparkling_heart:` | :sparkles: `:sparkles:` |
+| :star: `:star:` | :star2: `:star2:` | :dizzy: `:dizzy:` |
+| :boom: `:boom:` | :collision: `:collision:` | :anger: `:anger:` |
+| :exclamation: `:exclamation:` | :question: `:question:` | :grey_exclamation: `:grey_exclamation:` |
+| :grey_question: `:grey_question:` | :zzz: `:zzz:` | :dash: `:dash:` |
