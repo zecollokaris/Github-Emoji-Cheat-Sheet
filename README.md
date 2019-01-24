@@ -76,4 +76,4 @@
 |---|---|---|
 | :point_down: `:point_down:` | :point_left: `:point_left:` | :point_right: `:point_right:` |
 |---|---|---|
-| :raised_hands: `:raised_hands:` | :pray: `:pray:` |
+| :raised_hands: `:raised_hands:` | :pray: `:pray:` | :point_up_2: `:point_up_2:` |
