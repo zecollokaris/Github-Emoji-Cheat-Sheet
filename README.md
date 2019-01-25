@@ -86,4 +86,4 @@
 |---|---|---|
 | :two_men_holding_hands: `:two_men_holding_hands:` | :two_women_holding_hands: `:two_women_holding_hands:` | :dancer: `:dancer:` |
 |---|---|---|
-| :dancers: `:dancers:` | :ok_woman: `:ok_woman:` |
+| :dancers: `:dancers:` | :ok_woman: `:ok_woman:` | :no_good: `:no_good:` |
