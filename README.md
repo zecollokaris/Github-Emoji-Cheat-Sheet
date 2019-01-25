@@ -110,4 +110,4 @@
 |---|---|---|
 | :scream_cat: `:scream_cat:` | :crying_cat_face: `:crying_cat_face:` | :joy_cat: `:joy_cat:` |
 |---|---|---|
-| :pouting_cat: `:pouting_cat:` | :japanese_ogre: `:japanese_ogre:` |
+| :pouting_cat: `:pouting_cat:` | :japanese_ogre: `:japanese_ogre:` | :japanese_goblin: `:japanese_goblin:` |
