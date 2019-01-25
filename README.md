@@ -97,3 +97,4 @@
 | :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 |---|---|---|
 | :girl: `:girl:` | :woman: `:woman:` | :man: `:man:` |
+| :baby: `:baby:` | :older_woman: `:older_woman:` |
