@@ -6,7 +6,7 @@ I decided to add a couple of laughing emojis to make my repository more humourou
 
 Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to come up with this coz im sure it will really help in making your Markdown files very colourful.
 
-A one pager listing the different emoji emoticons supported on
+A one pager listing the different emojis supported on
 [Campfire](http://campfirenow.com/),
 [GitHub](http://github.com/),
 [Basecamp Next](http://37signals.com/basecampnext/),
@@ -68,7 +68,7 @@ A one pager listing the different emoji emoticons supported on
 [Mattermost](http://www.mattermost.org/)
 and [Kanban Tool](http://kanbantool.com/).
 
-:point_right: Check them out at our home page: .
+:point_right: **Check them out too on a web page:** .
 
 
 **People**
@@ -206,6 +206,11 @@ and [Kanban Tool](http://kanbantool.com/).
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
 
+**Nature**
+
+
+
+
 
 
 ## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
@@ -217,7 +222,7 @@ and [Kanban Tool](http://kanbantool.com/).
 ## Contributing
 
 1. Fork it!
-2. Create your feature branch: `git checkout -b <add-your-new-branch-name>
+2. Create your feature branch: `git checkout -b add-your-new-branch-name
 
 For Example:
 ```
