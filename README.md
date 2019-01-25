@@ -81,4 +81,4 @@
 | :clap: `:clap:` | :muscle: `:muscle:` | :metal: `:metal:` |
 | :fu: `:fu:` | :walking: `:walking:` | :runner: `:runner:` |
 | :running: `:running:` | :couple: `:couple:` | :family: `:family:` |
-| :two_men_holding_hands: `:two_men_holding_hands:` 
+| :two_men_holding_hands: `:two_men_holding_hands:` | :two_women_holding_hands: `:two_women_holding_hands:` |
