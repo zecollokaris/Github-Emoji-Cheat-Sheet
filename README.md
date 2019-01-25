@@ -80,4 +80,4 @@
 |---|---|---|
 | :clap: `:clap:` | :muscle: `:muscle:` | :metal: `:metal:` |
 | :fu: `:fu:` | :walking: `:walking:` | :runner: `:runner:` |
-| :running: `:running:` |
+| :running: `:running:` | :couple: `:couple:` |
