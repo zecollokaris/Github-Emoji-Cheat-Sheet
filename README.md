@@ -96,4 +96,4 @@
 |---|---|---|
 | :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 |---|---|---|
-| :girl: `:girl:` |
+| :girl: `:girl:` | :woman: `:woman:` |
