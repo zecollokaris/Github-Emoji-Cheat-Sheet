@@ -88,4 +88,4 @@
 |---|---|---|
 | :dancers: `:dancers:` | :ok_woman: `:ok_woman:` | :no_good: `:no_good:` |
 
-| :information_desk_person: `:information_desk_person:` | :raising_hand: `:raising_hand:` |
+| :information_desk_person: `:information_desk_person:` | :raising_hand: `:raising_hand:` | :bride_with_veil: `:bride_with_veil:` |
