@@ -79,3 +79,4 @@
 | :raised_hands: `:raised_hands:` | :pray: `:pray:` | :point_up_2: `:point_up_2:` |
 |---|---|---|
 | :clap: `:clap:` | :muscle: `:muscle:` | :metal: `:metal:` |
+| :fu: `:fu:` |
