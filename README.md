@@ -125,3 +125,5 @@
 | :busts_in_silhouette: `:busts_in_silhouette:` | :speech_balloon: `:speech_balloon:` | :thought_balloon: `:thought_balloon:` |
 |---|---|---|
 | :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
+
+| :godmode: `:godmode:` |
