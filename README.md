@@ -117,3 +117,5 @@
 | :guardsman: `:guardsman:` | :skull: `:skull:` | :feet: `:feet:` |
 |---|---|---|
 | :lips: `:lips:` | :kiss: `:kiss:` | :droplet: `:droplet:` |
+
+| :ear: `:ear:` 
