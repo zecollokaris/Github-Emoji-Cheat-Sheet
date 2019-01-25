@@ -79,6 +79,11 @@
 | :raised_hands: `:raised_hands:` | :pray: `:pray:` | :point_up_2: `:point_up_2:` |
 |---|---|---|
 | :clap: `:clap:` | :muscle: `:muscle:` | :metal: `:metal:` |
+|---|---|---|
 | :fu: `:fu:` | :walking: `:walking:` | :runner: `:runner:` |
+|---|---|---|
 | :running: `:running:` | :couple: `:couple:` | :family: `:family:` |
+|---|---|---|
 | :two_men_holding_hands: `:two_men_holding_hands:` | :two_women_holding_hands: `:two_women_holding_hands:` | :dancer: `:dancer:` |
+|---|---|---|
+| :dancers: `:dancers:` |
