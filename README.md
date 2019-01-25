@@ -118,4 +118,4 @@
 |---|---|---|
 | :lips: `:lips:` | :kiss: `:kiss:` | :droplet: `:droplet:` |
 
-| :ear: `:ear:` 
+| :ear: `:ear:` | :eyes: `:eyes:` |
