@@ -130,4 +130,4 @@
 |---|---|---|
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 |---|---|---|
-| :suspect: `:suspect:` |
+| :suspect: `:suspect:` | :trollface: `:trollface:` | 
