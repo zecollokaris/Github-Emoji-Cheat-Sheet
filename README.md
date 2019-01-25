@@ -78,4 +78,4 @@
 |---|---|---|
 | :raised_hands: `:raised_hands:` | :pray: `:pray:` | :point_up_2: `:point_up_2:` |
 |---|---|---|
-| :clap: `:clap:` 
+| :clap: `:clap:` | :muscle: `:muscle:` |
