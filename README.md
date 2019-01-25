@@ -94,5 +94,5 @@
 |---|---|---|
 | :couplekiss: `:couplekiss:` | :couple_with_heart: `:couple_with_heart:` | :massage: `:massage:` |
 |---|---|---|
-| :haircut: `:haircut:` | :nail_care: `:nail_care:` |
+| :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 |---|---|---|
