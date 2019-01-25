@@ -221,13 +221,13 @@ and [Kanban Tool](http://kanbantool.com/).
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b add-your-new-branch-name
+1. Fork the repository!
+2. Create your feature branch: `git checkout -b add-your-new-branch-name`
 
 For Example:
 ```
 git checkout -b zecollo
 ```
-3. Commit your changes: `git commit -m 'Add some changes made`
+3. Commit your changes: `git commit -m 'Description on changes made'`
 4. Push to the branch: `git push origin your-new-branch-name`
 5. Submit a pull request and enjoy! :wink:
