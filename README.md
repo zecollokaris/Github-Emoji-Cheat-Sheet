@@ -1,8 +1,8 @@
 **People**
 
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+| :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
-| :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
+| :blush: `:blush:` | :yum: `:yum:` | :relaxed: `:relaxed:` |
 |---|---|---|
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 |---|---|---|
@@ -34,7 +34,7 @@
 |---|---|---|
 | :angry: `:angry:` | :rage: `:rage:` | :triumph: `:triumph:` |
 |---|---|---|
-| :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
+| :sleepy: `:sleepy:` | :bowtie: `:bowtie:` | :mask: `:mask:` |
 |---|---|---|
 | :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` | :imp: `:imp:` |
 |---|---|---|
