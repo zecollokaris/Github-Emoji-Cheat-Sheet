@@ -109,3 +109,5 @@
 | :heart_eyes_cat: `:heart_eyes_cat:` | :kissing_cat: `:kissing_cat:` | :smirk_cat: `:smirk_cat:` |
 |---|---|---|
 | :scream_cat: `:scream_cat:` | :crying_cat_face: `:crying_cat_face:` | :joy_cat: `:joy_cat:` |
+|---|---|---|
+| :pouting_cat: `:pouting_cat:` |
