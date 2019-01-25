@@ -4,7 +4,7 @@ After sending a application to a **software developer job** where one of the qua
 
 I decided to add a couple of laughing emojis to make my repository more humourous. :smile: 
 
-Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to come up with this coz im sure it will really help in making your Markdown files very colourful.
+Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to add up with this coz im sure it will really help in making your Markdown files very colourful.
 
 A one pager listing the different emojis supported on
 [Campfire](http://campfirenow.com/),
@@ -229,5 +229,5 @@ For Example:
 git checkout -b zecollo
 ```
 3. Commit your changes: `git commit -m 'Add some changes made`
-4. Push to the branch: `git push origin my-new-feature added`
+4. Push to the branch: `git push origin your-new-branch-name`
 5. Submit a pull request and enjoy! :wink:
