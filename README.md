@@ -1,4 +1,4 @@
-<p align="center">:sparkles: :star2: :collision: GITHUB EMOJI CHEATSHEET :collision: :star2: :sparkles:<p>
+# <p align="center">:sparkles: :star2: :collision: GITHUB EMOJI CHEATSHEET :collision: :star2: :sparkles:<p>
 
 After sending a application to a **software developer job** where one of the qualifications was **Having a strong sense of humor.** 
 
@@ -221,6 +221,8 @@ and [Kanban Tool](http://kanbantool.com/).
 
 ## Contributing
 
+**Help in their search for Emojis**:muscle:
+
 1. Fork the repository!
 2. Create your feature branch: `git checkout -b add-your-new-branch-name`
 
@@ -228,6 +230,7 @@ For Example:
 ```
 git checkout -b zecollo
 ```
+
 3. Commit your changes: `git commit -m 'Description on changes made'`
 4. Push to the branch: `git push origin your-new-branch-name`
 5. Submit a pull request and enjoy! :wink:
