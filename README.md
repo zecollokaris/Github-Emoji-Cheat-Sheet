@@ -1,3 +1,76 @@
+<p align="center">:sparkles: :star2: :collision: GITHUB EMOJI CHEATSHEET :collision: :star2: :sparkles:<p>
+
+After sending a application to a **software developer job** where one of the qualifications was **Having a strong sense of humor.** 
+
+I decided to add a couple of laughing emojis to make my repository more humourous. :smile: 
+
+Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to come up with this coz im sure it will really help in making your Markdown files very colourful.
+
+A one pager listing the different emoji emoticons supported on
+[Campfire](http://campfirenow.com/),
+[GitHub](http://github.com/),
+[Basecamp Next](http://37signals.com/basecampnext/),
+[Redbooth](http://redbooth.com/),
+[Trac](http://trac-hacks.org/wiki/TracEmojiPlugin),
+[Flowdock](https://www.flowdock.com/),
+[Sprint.ly](https://sprint.ly/),
+[Kandan](http://getkandan.com/),
+[Textbox.io](http://textbox.io/),
+[Kippt](http://kippt.com),
+[Redmine](https://github.com/tmy/redmine_gemoji),
+[JabbR](http://about.jabbr.net/),
+[Trello](https://trello.com/),
+[Hall](https://hall.com/),
+[Qiita](http://qiita.com/),
+[Zendesk](http://zendesk.com/),
+[Ruby-China](http://ruby-china.org/),
+[Grove](https://grove.io/),
+[Idobata](https://idobata.io/),
+[NodeBB Forums](https://nodebb.org),
+[Slack](https://slack.com),
+[Streamup](https://streamup.com/),
+[OrganisedMinds](http://organisedminds.com),
+[Hackpad](https://hackpad.com),
+[Cryptbin](https://cryptbin.com/),
+[Kato](https://kato.im),
+[Reportedly](http://reportedly.co),
+[Cheerful Ghost](http://cheerfulghost.com),
+[IRCCloud](https://www.irccloud.com),
+[Dashcube](https://dashcube.com),
+[MyVideoGameList](http://myvideogamelist.com),
+[Subrosa](https://subrosa.io),
+[Sococo](https://www.sococo.com),
+[Quip](https://quip.com),
+[And Bang](https://andbang.com),
+[Bonusly](https://bonus.ly),
+[Discourse](https://discourse.org),
+[Ello](https://ello.co),
+[Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/),
+[ReadMe.io](https://readme.io),
+[esa](https://esa.io/),
+[DBook](https://www.DBook.org),
+[Groups.io](https://groups.io),
+[TeamworkChat](http://www.teamwork.com/chat),
+[Damn Bugs](https://bugtrack.in),
+[Let's Chat](https://sdelements.github.io/lets-chat),
+[Buildkite](https://buildkite.com),
+[IGDB.com](https://www.igdb.com/forums),
+[ChatGrape](https://chatgrape.com),
+[Dokuwiki](https://github.com/squarefractal/githubemoji-dokuwiki),
+[Usersnap](https://usersnap.com),
+[Discord](https://discordapp.com/),
+[Status Hero](https://statushero.com/),
+[Morfy](http://morfy.org/),
+[Gitter](https://gitter.im/),
+[Yellow](http://datenstrom.se/yellow/),
+[YouTube](https://youtube.com),
+[Habitica](https://habitica.com),
+[Mattermost](http://www.mattermost.org/)
+and [Kanban Tool](http://kanbantool.com/).
+
+:point_right: Check them out at our home page: .
+
+
 **People**
 
 | :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
@@ -131,3 +204,23 @@
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 |---|---|---|
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
+
+
+
+
+
+
+
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b <add-your-new-branch-name>
+
+For Example:
+```
+git checkout -b zecollo
+```
+3. Commit your changes: `git commit -m 'Add some changes made`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request and enjoy! :D
