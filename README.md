@@ -2,9 +2,9 @@
 
 After sending a application to a **software developer job** where one of the qualifications was **Having a strong sense of humor.** 
 
-I decided to add a couple of laughing emojis to make my repository more humourous. :smile: 
+**I decided to add a couple of laughing emojis to make my repository more humourous.** :smile: 
 
-Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to add up with this coz im sure it will really help in making your Markdown files very colourful.
+Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to add up with this coz im sure it will **really help in making your Markdown files very colourful**.
 
 A one pager listing the different emojis supported on
 [Campfire](http://campfirenow.com/),
