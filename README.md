@@ -68,7 +68,7 @@ A one pager listing the different emojis supported on
 [Mattermost](http://www.mattermost.org/)
 and [Kanban Tool](http://kanbantool.com/).
 
-:point_right: **Check them out too on a web page:** .
+:point_right: **Check them out too on a web page:** https://zecollokaris.github.io/Web-moji/.
 
 
 **People**
