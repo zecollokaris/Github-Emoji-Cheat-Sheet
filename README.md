@@ -120,4 +120,4 @@
 
 | :ear: `:ear:` | :eyes: `:eyes:` | :nose: `:nose:` |
 
-| :tongue: `:tongue:` | :love_letter: `:love_letter:` |
+| :tongue: `:tongue:` | :love_letter: `:love_letter:` | :bust_in_silhouette: `:bust_in_silhouette:` |
