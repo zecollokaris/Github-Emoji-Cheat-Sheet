@@ -126,4 +126,4 @@
 |---|---|---|
 | :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
 
-| :godmode: `:godmode:` |
+| :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` |
