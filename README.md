@@ -74,7 +74,7 @@ and [Kanban Tool](http://kanbantool.com/).
 **People**
 
 | :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
-
+|---|---|---|
 | :blush: `:blush:` | :yum: `:yum:` | :relaxed: `:relaxed:` |
 
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
