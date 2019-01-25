@@ -117,9 +117,11 @@
 | :guardsman: `:guardsman:` | :skull: `:skull:` | :feet: `:feet:` |
 |---|---|---|
 | :lips: `:lips:` | :kiss: `:kiss:` | :droplet: `:droplet:` |
-
+|---|---|---|
 | :ear: `:ear:` | :eyes: `:eyes:` | :nose: `:nose:` |
-
+|---|---|---|
 | :tongue: `:tongue:` | :love_letter: `:love_letter:` | :bust_in_silhouette: `:bust_in_silhouette:` |
-
+|---|---|---|
 | :busts_in_silhouette: `:busts_in_silhouette:` | :speech_balloon: `:speech_balloon:` | :thought_balloon: `:thought_balloon:` |
+|---|---|---|
+| :feelsgood: `:feelsgood:` |
