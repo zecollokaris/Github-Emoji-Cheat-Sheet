@@ -208,6 +208,8 @@ and [Kanban Tool](http://kanbantool.com/).
 
 
 
+## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
+
 
 
 
@@ -222,5 +224,5 @@ For Example:
 git checkout -b zecollo
 ```
 3. Commit your changes: `git commit -m 'Add some changes made`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request and enjoy! :D
+4. Push to the branch: `git push origin my-new-feature added`
+5. Submit a pull request and enjoy! :wink:
