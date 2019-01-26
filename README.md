@@ -11,8 +11,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 **People**
 
-| :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
+| GitHub | EMoji | CheatSheet :v:	 |
 |---|---|---|
+| :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :yum: `:yum:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
