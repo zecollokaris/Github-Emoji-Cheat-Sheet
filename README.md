@@ -11,7 +11,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 **People**
 
-| GitHub | EMoji | CheatSheet :v:	 |
+| GitHub | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
 | :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :yum: `:yum:` | :relaxed: `:relaxed:` |
@@ -83,7 +83,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 **Nature**
 
-
+| GitHub | Emoji | CheatSheet :clipboard:	 |
+|---|---|---|
+| :sunny: `:sunny:` 
 
 
 
