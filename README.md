@@ -85,7 +85,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 | GitHub | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
-| :sunny: `:sunny:` | :umbrella: `:umbrella:` |
+| :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 
 
 
