@@ -86,6 +86,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | Nature | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
+| :snowflake: `:snowflake:` 
 
 
 
