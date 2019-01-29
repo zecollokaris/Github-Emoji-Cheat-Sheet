@@ -91,14 +91,14 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
 | :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
 | :frog: `:frog:` | :tiger: `:tiger:` | :koala: `:koala:` |
-| :bear: `:bear:` | :pig: `:pig:` |
+| :bear: `:bear:` | :pig: `:pig:` | :pig_nose: `:pig_nose:` |
 
 
 
 ## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
 
 
-
+dubai is more than lunch... but 
 
 
 ## Contributing
