@@ -87,7 +87,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 |---|---|---|
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
-| :cyclone: `:cyclone:` |
+| :cyclone: `:cyclone:` | :foggy: `:foggy:` |
 
 
 
