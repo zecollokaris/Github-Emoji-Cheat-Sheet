@@ -89,7 +89,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
-| :hamster: `:hamster:` |
+| :hamster: `:hamster:` | :rabbit: `:rabbit:` 
 
 
 
