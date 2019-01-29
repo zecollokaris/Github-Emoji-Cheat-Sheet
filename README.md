@@ -90,6 +90,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
 | :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
+| :frog: `:frog:` 
 
 
 
