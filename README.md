@@ -93,7 +93,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :frog: `:frog:` | :tiger: `:tiger:` | :koala: `:koala:` |
 | :bear: `:bear:` | :pig: `:pig:` | :pig_nose: `:pig_nose:` |
 | :cow: `:cow:` | :boar: `:boar:` | :monkey_face: `:monkey_face:` |
-| :monkey: `:monkey:` |
+| :monkey: `:monkey:` | :horse: `:horse:` 
 
 
 
