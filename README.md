@@ -108,7 +108,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :pig2: `:pig2:` | :mouse2: `:mouse2:` | :ox: `:ox:` |
 | :dragon_face: `:dragon_face:` | :blowfish: `:blowfish:` | :crocodile: `:crocodile:` |
 | :dromedary_camel: `:dromedary_camel:` | :leopard: `:leopard:` | :cat2: `:cat2:` |
-| :poodle: `:poodle:` |
+| :poodle: `:poodle:` | :paw_prints: `:paw_prints:` 
 
 
 
