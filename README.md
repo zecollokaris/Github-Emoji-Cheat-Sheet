@@ -112,7 +112,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :cherry_blossom: `:cherry_blossom:` | :tulip: `:tulip:` | :four_leaf_clover: `:four_leaf_clover:` |
 | :rose: `:rose:` | :sunflower: `:sunflower:` | :hibiscus: `:hibiscus:` |
 | :maple_leaf: `:maple_leaf:` | :leaves: `:leaves:` | :fallen_leaf: `:fallen_leaf:` |
-| :herb: `:herb:` | :mushroom: `:mushroom:` |
+| :herb: `:herb:` | :mushroom: `:mushroom:` | :cactus: `:cactus:` |
 
 
 
