@@ -95,7 +95,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :cow: `:cow:` | :boar: `:boar:` | :monkey_face: `:monkey_face:` |
 | :monkey: `:monkey:` | :horse: `:horse:` | :racehorse: `:racehorse:` |
 | :camel: `:camel:` | :sheep: `:sheep:` | :elephant: `:elephant:` |
-| :panda_face: `:panda_face:` | :snake: `:snake:` 
+| :panda_face: `:panda_face:` | :snake: `:snake:` | :bird: `:bird:` |
 
 
 
