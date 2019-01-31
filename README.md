@@ -116,7 +116,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :palm_tree: `:palm_tree:` | :evergreen_tree: `:evergreen_tree:` | :deciduous_tree: `:deciduous_tree:` |
 | :chestnut: `:chestnut:` | :seedling: `:seedling:` | :blossom: `:blossom:` |
 | :ear_of_rice: `:ear_of_rice:` | :shell: `:shell:` | :globe_with_meridians: `:globe_with_meridians:` |
-
+| :sun_with_face: `:sun_with_face:` |
 
 
 
