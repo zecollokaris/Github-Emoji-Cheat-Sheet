@@ -127,7 +127,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 **Objects**
-
+| :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
+|---|---|---|
 
 
 
