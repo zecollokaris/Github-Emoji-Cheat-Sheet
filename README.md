@@ -114,7 +114,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :maple_leaf: `:maple_leaf:` | :leaves: `:leaves:` | :fallen_leaf: `:fallen_leaf:` |
 | :herb: `:herb:` | :mushroom: `:mushroom:` | :cactus: `:cactus:` |
 | :palm_tree: `:palm_tree:` | :evergreen_tree: `:evergreen_tree:` | :deciduous_tree: `:deciduous_tree:` |
-
+| :chestnut: `:chestnut:` 
 
 
 
