@@ -103,6 +103,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
 | :whale2: `:whale2:` | :dolphin: `:dolphin:` | :cow2: `:cow2:` |
 | :ram: `:ram:` | :rat: `:rat:` | :water_buffalo: `:water_buffalo:` |
+| :tiger2: `:tiger2:` |
 
 
 
