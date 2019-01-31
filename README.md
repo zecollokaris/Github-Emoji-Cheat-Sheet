@@ -101,7 +101,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
 | :beetle: `:beetle:` | :snail: `:snail:` | :octopus: `:octopus:` |
 | :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
-| :whale2: `:whale2:` |
+| :whale2: `:whale2:` | :dolphin: `:dolphin:` 
 
 
 
