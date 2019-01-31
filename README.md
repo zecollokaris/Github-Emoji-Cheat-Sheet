@@ -127,7 +127,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 ## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
 
 
-dubai is more than lunch... but 
+
 
 
 ## Contributing
