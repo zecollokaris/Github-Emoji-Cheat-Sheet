@@ -130,7 +130,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 | Objects | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
-
+| :bamboo: `:bamboo:` 
 
 
 
