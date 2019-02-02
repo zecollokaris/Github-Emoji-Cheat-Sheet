@@ -133,6 +133,12 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
+| :rice_scene: `:rice_scene:` |
+
+
+
+
+
 
 
 
