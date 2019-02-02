@@ -132,6 +132,10 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 |---|---|---|
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
+| :fireworks: `:fireworks:` |
+
+
+
 
 
 ## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
