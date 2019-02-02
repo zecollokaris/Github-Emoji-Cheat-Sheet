@@ -131,7 +131,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | Objects | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
-| :school_satchel: `:school_satchel:` |
+| :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` 
 
 
 ## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
