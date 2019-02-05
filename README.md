@@ -192,7 +192,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :lipstick: `:lipstick:` | :boot: `:boot:` | :shirt: `:shirt:` |
 | :tshirt: `:tshirt:` | :necktie: `:necktie:` | :womans_clothes: `:womans_clothes:` |
 | :dress: `:dress:` | :running_shirt_with_sash: `:running_shirt_with_sash:` | :jeans: `:jeans:` |
-| :kimono: `:kimono:` 
+| :kimono: `:kimono:` | :bikini: `:bikini:` |
 
 
 
