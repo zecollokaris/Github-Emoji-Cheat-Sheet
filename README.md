@@ -153,7 +153,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :low_brightness: `:low_brightness:` | :electric_plug: `:electric_plug:` | :battery: `:battery:` |
 | :calling: `:calling:` | :email: `:email:` | :mailbox: `:mailbox:` |
 | :postbox: `:postbox:` | :bath: `:bath:` | :bathtub: `:bathtub:` |
-| :shower: `:shower:` 
+| :shower: `:shower:` | :toilet: `:toilet:` |
 
 
 
