@@ -190,7 +190,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :trumpet: `:trumpet:` | :saxophone: `:saxophone:` | :guitar: `:guitar:` |
 | :shoe: `:shoe:` | :sandal: `:sandal:` | :high_heel: `:high_heel:` |
 | :lipstick: `:lipstick:` | :boot: `:boot:` | :shirt: `:shirt:` |
-| :tshirt: `:tshirt:` 
+| :tshirt: `:tshirt:` | :necktie: `:necktie:` |
 
 
 
