@@ -140,7 +140,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :crystal_ball: `:crystal_ball:` | :cd: `:cd:` | :dvd: `:dvd:` |
 | :floppy_disk: `:floppy_disk:` | :camera: `:camera:` | :video_camera: `:video_camera:` |
 | :movie_camera: `:movie_camera:` | :computer: `:computer:` | :tv: `:tv:` |
-| :iphone: `:iphone:` 
+| :iphone: `:iphone:` | :phone: `:phone:` |
 
 
 
