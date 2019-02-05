@@ -149,7 +149,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :satellite: `:satellite:` | :loop: `:loop:` | :mag: `:mag:` |
 | :mag_right: `:mag_right:` | :unlock: `:unlock:` | :lock: `:lock:` |
 | :lock_with_ink_pen: `:lock_with_ink_pen:` | :closed_lock_with_key: `:closed_lock_with_key:` | :key: `:key:` |
-| :bulb: `:bulb:` |
+| :bulb: `:bulb:` | :flashlight: `:flashlight:` 
 
 
 
