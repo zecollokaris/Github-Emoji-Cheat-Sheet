@@ -184,7 +184,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :trophy: `:trophy:` | :musical_score: `:musical_score:` | :musical_keyboard: `:musical_keyboard:` |
 | :violin: `:violin:` | :space_invader: `:space_invader:` | :video_game: `:video_game:` |
 | :black_joker: `:black_joker:` | :flower_playing_cards: `:flower_playing_cards:` | :game_die: `:game_die:` |
-| :dart: `:dart:` | :mahjong: `:mahjong:` |
+| :dart: `:dart:` | :mahjong: `:mahjong:` | :clapper: `:clapper:` |
 
 
 
