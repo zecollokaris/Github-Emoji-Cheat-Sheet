@@ -155,6 +155,14 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :postbox: `:postbox:` | :bath: `:bath:` | :bathtub: `:bathtub:` |
 | :shower: `:shower:` | :toilet: `:toilet:` | :wrench: `:wrench:` |
 | :nut_and_bolt: `:nut_and_bolt:` | :hammer: `:hammer:` | :seat: `:seat:` |
+| :moneybag: `:moneybag:` 
+
+
+
+
+
+
+
 
 
 
