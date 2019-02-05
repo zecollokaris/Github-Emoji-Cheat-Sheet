@@ -147,7 +147,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :mega: `:mega:` | :hourglass: `:hourglass:` | :hourglass_flowing_sand: `:hourglass_flowing_sand:` |
 | :alarm_clock: `:alarm_clock:` | :watch: `:watch:` | :radio: `:radio:` |
 | :satellite: `:satellite:` | :loop: `:loop:` | :mag: `:mag:` |
-| :mag_right: `:mag_right:` | :unlock: `:unlock:` |
+| :mag_right: `:mag_right:` | :unlock: `:unlock:` | :lock: `:lock:` |
 
 
 
