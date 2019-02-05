@@ -137,7 +137,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :santa: `:santa:` | :christmas_tree: `:christmas_tree:` | :gift: `:gift:` |
 | :bell: `:bell:` | :no_bell: `:no_bell:` | :tanabata_tree: `:tanabata_tree:` |
 | :tada: `:tada:` | :confetti_ball: `:confetti_ball:` | :balloon: `:balloon:` |
-| :crystal_ball: `:crystal_ball:` | :cd: `:cd:` |
+| :crystal_ball: `:crystal_ball:` | :cd: `:cd:` | :dvd: `:dvd:` |
 
 
 
