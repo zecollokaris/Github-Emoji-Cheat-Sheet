@@ -143,7 +143,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :iphone: `:iphone:` | :phone: `:phone:` | :telephone: `:telephone:` |
 | :telephone_receiver: `:telephone_receiver:` | :pager: `:pager:` | :fax: `:fax:` |
 | :minidisc: `:minidisc:` | :vhs: `:vhs:` | :sound: `:sound:` |
-| :speaker: `:speaker:` 
+| :speaker: `:speaker:` | :mute: `:mute:` |
 
 
 
