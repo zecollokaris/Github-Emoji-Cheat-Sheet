@@ -157,7 +157,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :nut_and_bolt: `:nut_and_bolt:` | :hammer: `:hammer:` | :seat: `:seat:` |
 | :moneybag: `:moneybag:` | :yen: `:yen:` | :dollar: `:dollar:` |
 | :pound: `:pound:` | :euro: `:euro:` | :credit_card: `:credit_card:` |
-| :money_with_wings: `:money_with_wings:` | :e-mail: `:e-mail:` |
+| :money_with_wings: `:money_with_wings:` | :e-mail: `:e-mail:` | :inbox_tray: `:inbox_tray:` |
 
 
 
