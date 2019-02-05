@@ -179,7 +179,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bowling: `:bowling:` | :golf: `:golf:` | :mountain_bicyclist: `:mountain_bicyclist:` |
 | :bicyclist: `:bicyclist:` | :horse_racing: `:horse_racing:` | :snowboarder: `:snowboarder:` |
 | :swimmer: `:swimmer:` | :surfer: `:surfer:` | :ski: `:ski:` |
-
+| :spades: `:spades:` 
 
 
 
