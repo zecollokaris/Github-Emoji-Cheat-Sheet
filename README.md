@@ -163,7 +163,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :mailbox_with_no_mail: `:mailbox_with_no_mail:` | :door: `:door:` | :smoking: `:smoking:` |
 | :bomb: `:bomb:` | :gun: `:gun:` | :hocho: `:hocho:` |
 | :pill: `:pill:` | :syringe: `:syringe:` | :page_facing_up: `:page_facing_up:` |
-| :page_with_curl: `:page_with_curl:` 
+| :page_with_curl: `:page_with_curl:` | :bookmark_tabs: `:bookmark_tabs:` |
 
 
 
