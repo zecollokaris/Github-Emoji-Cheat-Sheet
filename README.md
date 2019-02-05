@@ -175,7 +175,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bookmark: `:bookmark:` | :name_badge: `:name_badge:` | :microscope: `:microscope:` |
 | :telescope: `:telescope:` | :newspaper: `:newspaper:` | :football: `:football:` |
 | :basketball: `:basketball:` | :soccer: `:soccer:` | :baseball: `:baseball:` |
-| :tennis: `:tennis:` | :8ball: `:8ball:` |
+| :tennis: `:tennis:` | :8ball: `:8ball:` | :rugby_football: `:rugby_football:` |
 
 
 
