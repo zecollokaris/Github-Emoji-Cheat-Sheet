@@ -188,7 +188,15 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :memo: `:memo:` | :pencil: `:pencil:` | :book: `:book:` |
 | :art: `:art:` | :microphone: `:microphone:` | :headphones: `:headphones:` |
 | :trumpet: `:trumpet:` | :saxophone: `:saxophone:` | :guitar: `:guitar:` |
-| :shoe: `:shoe:` 
+| :shoe: `:shoe:` | :sandal: `:sandal:` |
+
+
+
+
+
+
+
+
 
 
 
