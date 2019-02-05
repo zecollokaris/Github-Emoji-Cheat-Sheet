@@ -187,7 +187,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :dart: `:dart:` | :mahjong: `:mahjong:` | :clapper: `:clapper:` |
 | :memo: `:memo:` | :pencil: `:pencil:` | :book: `:book:` |
 | :art: `:art:` | :microphone: `:microphone:` | :headphones: `:headphones:` |
-
+| :trumpet: `:trumpet:` 
 
 
 
