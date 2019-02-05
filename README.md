@@ -161,7 +161,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :outbox_tray: `:outbox_tray:` | :envelope: `:envelope:` | :incoming_envelope: `:incoming_envelope:` |
 | :postal_horn: `:postal_horn:` | :mailbox_closed: `:mailbox_closed:` | :mailbox_with_mail: `:mailbox_with_mail:` |
 | :mailbox_with_no_mail: `:mailbox_with_no_mail:` | :door: `:door:` | :smoking: `:smoking:` |
-| :bomb: `:bomb:` | :gun: `:gun:` |
+| :bomb: `:bomb:` | :gun: `:gun:` | :hocho: `:hocho:` |
 
 
 
