@@ -168,7 +168,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :clipboard: `:clipboard:` | :calendar: `:calendar:` | :date: `:date:` |
 | :card_index: `:card_index:` | :file_folder: `:file_folder:` | :open_file_folder: `:open_file_folder:` |
 | :scissors: `:scissors:` | :pushpin: `:pushpin:` | :paperclip: `:paperclip:` |
-| :black_nib: `:black_nib:` 
+| :black_nib: `:black_nib:` | :pencil2: `:pencil2:` |
 
 
 
