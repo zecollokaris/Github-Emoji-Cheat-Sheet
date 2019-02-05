@@ -145,7 +145,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :minidisc: `:minidisc:` | :vhs: `:vhs:` | :sound: `:sound:` |
 | :speaker: `:speaker:` | :mute: `:mute:` | :loudspeaker: `:loudspeaker:` |
 | :mega: `:mega:` | :hourglass: `:hourglass:` | :hourglass_flowing_sand: `:hourglass_flowing_sand:` |
-| :alarm_clock: `:alarm_clock:` | :watch: `:watch:` |
+| :alarm_clock: `:alarm_clock:` | :watch: `:watch:` | :radio: `:radio:` |
+
 
 
 
