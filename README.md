@@ -186,7 +186,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :black_joker: `:black_joker:` | :flower_playing_cards: `:flower_playing_cards:` | :game_die: `:game_die:` |
 | :dart: `:dart:` | :mahjong: `:mahjong:` | :clapper: `:clapper:` |
 | :memo: `:memo:` | :pencil: `:pencil:` | :book: `:book:` |
-| :art: `:art:` 
+| :art: `:art:` | :microphone: `:microphone:` |
 
 
 
