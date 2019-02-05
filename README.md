@@ -171,7 +171,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :black_nib: `:black_nib:` | :pencil2: `:pencil2:` | :straight_ruler: `:straight_ruler:` |
 | :triangular_ruler: `:triangular_ruler:` | :closed_book: `:closed_book:` | :green_book: `:green_book:` |
 | :blue_book: `:blue_book:` | :orange_book: `:orange_book:` | :notebook: `:notebook:` |
-| :notebook_with_decorative_cover: `:notebook_with_decorative_cover:` | :ledger: `:ledger:` |
+| :notebook_with_decorative_cover: `:notebook_with_decorative_cover:` | :ledger: `:ledger:` | :books: `:books:` |
 
 
 
