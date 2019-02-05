@@ -167,7 +167,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :chart_with_upwards_trend: `:chart_with_upwards_trend:` | :chart_with_downwards_trend: `:chart_with_downwards_trend:` | :scroll: `:scroll:` |
 | :clipboard: `:clipboard:` | :calendar: `:calendar:` | :date: `:date:` |
 | :card_index: `:card_index:` | :file_folder: `:file_folder:` | :open_file_folder: `:open_file_folder:` |
-| :scissors: `:scissors:` 
+| :scissors: `:scissors:` | :pushpin: `:pushpin:` |
 
 
 
