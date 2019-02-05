@@ -182,6 +182,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :spades: `:spades:` | :hearts: `:hearts:` | :clubs: `:clubs:` |
 | :diamonds: `:diamonds:` | :gem: `:gem:` | :ring: `:ring:` |
 | :trophy: `:trophy:` | :musical_score: `:musical_score:` | :musical_keyboard: `:musical_keyboard:` |
+| :violin: `:violin:` 
+
+
 
 
 
