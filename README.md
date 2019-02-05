@@ -139,7 +139,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :tada: `:tada:` | :confetti_ball: `:confetti_ball:` | :balloon: `:balloon:` |
 | :crystal_ball: `:crystal_ball:` | :cd: `:cd:` | :dvd: `:dvd:` |
 | :floppy_disk: `:floppy_disk:` | :camera: `:camera:` | :video_camera: `:video_camera:` |
-
+| :movie_camera: `:movie_camera:` 
 
 
 
