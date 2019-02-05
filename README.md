@@ -152,7 +152,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bulb: `:bulb:` | :flashlight: `:flashlight:` | :high_brightness: `:high_brightness:` |
 | :low_brightness: `:low_brightness:` | :electric_plug: `:electric_plug:` | :battery: `:battery:` |
 | :calling: `:calling:` | :email: `:email:` | :mailbox: `:mailbox:` |
-| :postbox: `:postbox:` 
+| :postbox: `:postbox:` | :bath: `:bath:` |
 
 
 
