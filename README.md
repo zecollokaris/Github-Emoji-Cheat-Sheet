@@ -180,7 +180,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bicyclist: `:bicyclist:` | :horse_racing: `:horse_racing:` | :snowboarder: `:snowboarder:` |
 | :swimmer: `:swimmer:` | :surfer: `:surfer:` | :ski: `:ski:` |
 | :spades: `:spades:` | :hearts: `:hearts:` | :clubs: `:clubs:` |
-| :diamonds: `:diamonds:` 
+| :diamonds: `:diamonds:` | :gem: `:gem:` |
 
 
 
