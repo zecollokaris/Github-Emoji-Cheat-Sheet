@@ -173,7 +173,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :blue_book: `:blue_book:` | :orange_book: `:orange_book:` | :notebook: `:notebook:` |
 | :notebook_with_decorative_cover: `:notebook_with_decorative_cover:` | :ledger: `:ledger:` | :books: `:books:` |
 | :bookmark: `:bookmark:` | :name_badge: `:name_badge:` | :microscope: `:microscope:` |
-| :telescope: `:telescope:` | :newspaper: `:newspaper:` |
+| :telescope: `:telescope:` | :newspaper: `:newspaper:` | :football: `:football:` |
 
 
 
