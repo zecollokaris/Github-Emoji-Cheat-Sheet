@@ -134,6 +134,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
 | :rice_scene: `:rice_scene:` | :jack_o_lantern: `:jack_o_lantern:` | :ghost: `:ghost:` |
+| :santa: `:santa:` 
 
 
 
