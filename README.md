@@ -232,7 +232,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :tent: `:tent:` | :factory: `:factory:` | :tokyo_tower: `:tokyo_tower:` |
 | :japan: `:japan:` | :mount_fuji: `:mount_fuji:` | :sunrise_over_mountains: `:sunrise_over_mountains:` |
 | :sunrise: `:sunrise:` | :stars: `:stars:` | :statue_of_liberty: `:statue_of_liberty:` |
-| :bridge_at_night: `:bridge_at_night:` | :carousel_horse: `:carousel_horse:` |
+| :bridge_at_night: `:bridge_at_night:` | :carousel_horse: `:carousel_horse:` | :rainbow: `:rainbow:` |
 
 
 
