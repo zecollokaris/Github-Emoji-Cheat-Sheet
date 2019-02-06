@@ -230,7 +230,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :department_store: `:department_store:` | :european_post_office: `:european_post_office:` | :city_sunrise: `:city_sunrise:` |
 | :city_sunset: `:city_sunset:` | :japanese_castle: `:japanese_castle:` | :european_castle: `:european_castle:` |
 | :tent: `:tent:` | :factory: `:factory:` | :tokyo_tower: `:tokyo_tower:` |
-| :japan: `:japan:` | :mount_fuji: `:mount_fuji:` |
+| :japan: `:japan:` | :mount_fuji: `:mount_fuji:` | :sunrise_over_mountains: `:sunrise_over_mountains:` |
 
 
 
