@@ -200,7 +200,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :tea: `:tea:` | :coffee: `:coffee` | :baby_bottle: `:baby_bottle:` |
 | :beer: `:beer:` | :beers: `:beers:` | :cocktail: `:cocktail:` |
 | :tropical_drink: `:tropical_drink:` | :wine_glass: `:wine_glass:` | :fork_and_knife: `:fork_and_knife:` |
-
+| :pizza: `:pizza:` 
 
 
 
