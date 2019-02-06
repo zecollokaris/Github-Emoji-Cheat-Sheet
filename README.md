@@ -226,7 +226,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
-| :hotel: `:hotel:` | :wedding: `:wedding:` |
+| :hotel: `:hotel:` | :wedding: `:wedding:` | :church: `:church:` |
 
 
 
