@@ -210,7 +210,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :custard: `:custard:` | :icecream: `:icecream:` | :ice_cream: `:ice_cream:` |
 | :shaved_ice: `:shaved_ice:` | :birthday: `:birthday:` | :cake: `:cake:` |
 | :cookie: `:cookie:` | :chocolate_bar: `:chocolate_bar:` | :candy: `:candy:` |
-| :lollipop: `:lollipop:` 
+| :lollipop: `:lollipop:` | :honey_pot: `:honey_pot:` |
 
 
 
