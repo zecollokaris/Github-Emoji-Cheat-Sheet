@@ -203,7 +203,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :pizza: `:pizza:` | :hamburger: `:hamburger:` | :fries: `:fries:` |
 | :poultry_leg: `:poultry_leg:` | :meat_on_bone: `:meat_on_bone:` | :spaghetti: `:spaghetti:` |
 | :curry: `:curry:` | :fried_shrimp: `:fried_shrimp:` | :bento: `:bento:` |
-| :sushi: `:sushi:` 
+| :sushi: `:sushi:` | :fish_cake: `:fish_cake:` |
 
 
 
