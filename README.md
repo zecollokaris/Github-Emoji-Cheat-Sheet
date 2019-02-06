@@ -211,7 +211,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :shaved_ice: `:shaved_ice:` | :birthday: `:birthday:` | :cake: `:cake:` |
 | :cookie: `:cookie:` | :chocolate_bar: `:chocolate_bar:` | :candy: `:candy:` |
 | :lollipop: `:lollipop:` | :honey_pot: `:honey_pot:` | :apple: `:apple:` |
-| :green_apple: `:green_apple:` | :tangerine: `:tangerine:` |
+| :green_apple: `:green_apple:` | :tangerine: `:tangerine:` | :lemon: `:lemon:` |
 
 
 
