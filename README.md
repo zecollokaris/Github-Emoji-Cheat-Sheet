@@ -208,7 +208,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :stew: `:stew:` | :oden: `:oden:` | :dango: `:dango:` |
 | :egg: `:egg:` | :bread: `:bread:` | :doughnut: `:doughnut:` |
 | :custard: `:custard:` | :icecream: `:icecream:` | :ice_cream: `:ice_cream:` |
-| :shaved_ice: `:shaved_ice:` 
+| :shaved_ice: `:shaved_ice:` | :birthday: `:birthday:` |
 
 
 
