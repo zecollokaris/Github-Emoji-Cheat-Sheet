@@ -214,7 +214,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :green_apple: `:green_apple:` | :tangerine: `:tangerine:` | :lemon: `:lemon:` |
 | :cherries: `:cherries:` | :grapes: `:grapes:` | :watermelon: `:watermelon:` |
 | :strawberry: `:strawberry:` | :peach: `:peach:` | :melon: `:melon:` |
-
+| :banana: `:banana:` 
 
 
 
