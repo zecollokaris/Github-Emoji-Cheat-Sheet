@@ -213,6 +213,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :lollipop: `:lollipop:` | :honey_pot: `:honey_pot:` | :apple: `:apple:` |
 | :green_apple: `:green_apple:` | :tangerine: `:tangerine:` | :lemon: `:lemon:` |
 | :cherries: `:cherries:` | :grapes: `:grapes:` | :watermelon: `:watermelon:` |
+| :strawberry: `:strawberry:` 
+
+
 
 
 
