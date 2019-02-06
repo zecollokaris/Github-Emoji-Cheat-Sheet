@@ -224,7 +224,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | Places | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
-| :house: `:house:` | :house_with_garden: `:house_with_garden:` |
+| :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 
 
 
