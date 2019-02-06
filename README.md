@@ -199,7 +199,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :eyeglasses: `:eyeglasses:` | :fishing_pole_and_fish: `:fishing_pole_and_fish:` | :sake: `:sake:` |
 | :tea: `:tea:` | :coffee: `:coffee` | :baby_bottle: `:baby_bottle:` |
 | :beer: `:beer:` | :beers: `:beers:` | :cocktail: `:cocktail:` |
-
+| :tropical_drink: `:tropical_drink:` 
 
 
 
