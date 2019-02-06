@@ -201,7 +201,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :beer: `:beer:` | :beers: `:beers:` | :cocktail: `:cocktail:` |
 | :tropical_drink: `:tropical_drink:` | :wine_glass: `:wine_glass:` | :fork_and_knife: `:fork_and_knife:` |
 | :pizza: `:pizza:` | :hamburger: `:hamburger:` | :fries: `:fries:` |
-| :poultry_leg: `:poultry_leg:` 
+| :poultry_leg: `:poultry_leg:` | :meat_on_bone: `:meat_on_bone:` |
 
 
 
