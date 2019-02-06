@@ -205,7 +205,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :curry: `:curry:` | :fried_shrimp: `:fried_shrimp:` | :bento: `:bento:` |
 | :sushi: `:sushi:` | :fish_cake: `:fish_cake:` | :rice_ball: `:rice_ball:` |
 | :rice_cracker: `:rice_cracker:` | :rice: `:rice:` | :ramen: `:ramen:` |
-| :stew: `:stew:` 
+| :stew: `:stew:` | :oden: `:oden:` |
 
 
 
