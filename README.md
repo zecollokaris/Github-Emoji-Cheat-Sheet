@@ -215,7 +215,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :cherries: `:cherries:` | :grapes: `:grapes:` | :watermelon: `:watermelon:` |
 | :strawberry: `:strawberry:` | :peach: `:peach:` | :melon: `:melon:` |
 | :banana: `:banana:` | :pear: `:pear:` | :pineapple: `:pineapple:` |
-| :sweet_potato: `:sweet_potato:` 
+| :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` |
 
 
 
