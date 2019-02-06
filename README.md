@@ -196,6 +196,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :tophat: `:tophat:` | :crown: `:crown:` | :womans_hat: `:womans_hat:` |
 | :mans_shoe: `:mans_shoe:` | :closed_umbrella: `:closed_umbrella:` | :briefcase: `:briefcase:` |
 | :handbag: `:handbag:` | :pouch: `:pouch:` | :purse: `:purse:` |
+| :eyeglasses: `:eyeglasses:` | :fishing_pole_and_fish: `:fishing_pole_and_fish:` |
 
 
 
