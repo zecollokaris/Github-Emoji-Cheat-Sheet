@@ -197,7 +197,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :mans_shoe: `:mans_shoe:` | :closed_umbrella: `:closed_umbrella:` | :briefcase: `:briefcase:` |
 | :handbag: `:handbag:` | :pouch: `:pouch:` | :purse: `:purse:` |
 | :eyeglasses: `:eyeglasses:` | :fishing_pole_and_fish: `:fishing_pole_and_fish:` | :sake: `:sake:` |
-| :tea: `:tea:` | :sake: `:sake:` | :baby_bottle: `:baby_bottle:` |
+| :tea: `:tea:` | :coffee: `:coffee` | :baby_bottle: `:baby_bottle:` |
+| :beer: `:beer:` 
 
 
 
