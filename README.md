@@ -248,7 +248,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :train: `:train:` | :station: `:station:` | :train2: `:train2:` |
 | :bullettrain_front: `:bullettrain_front:` | :bullettrain_side: `:bullettrain_side:` | :light_rail: `:light_rail:` |
 | :monorail: `:monorail:` | :railway_car: `:railway_car:` | :trolleybus: `:trolleybus:` |
-
+| :ticket: `:ticket:` 
 
 
 
