@@ -236,6 +236,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :ferris_wheel: `:ferris_wheel:` | :fountain: `:fountain:` | :roller_coaster: `:roller_coaster:` |
 | :ship: `:ship:` | :speedboat: `:speedboat:` | :boat: `:boat:` |
 | :sailboat: `:sailboat:` | :rowboat: `:rowboat:` | :anchor: `:anchor:` |
+| :rocket: `:rocket:` 
+
+
 
 
 
