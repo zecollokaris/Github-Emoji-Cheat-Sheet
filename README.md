@@ -252,9 +252,10 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :traffic_light: `:traffic_light:` | :warning: `:warning:` | :construction: `:construction:` |
 | :beginner: `:beginner:` | :atm: `:atm:` | :slot_machine: `:slot_machine:` |
 | :busstop: `:busstop:` | :barber: `:barber:` | :hotsprings: `:hotsprings:` |
- :izakaya_lantern: `:izakaya_lantern:` | :moyai: `:moyai:` | :circus_tent: `:circus_tent:` |
- :performing_arts: `:performing_arts:` |
+| :izakaya_lantern: `:izakaya_lantern:` | :moyai: `:moyai:` | :circus_tent: `:circus_tent:` |
+| :performing_arts: `:performing_arts:` |
 
+| :round_pushpin: `:round_pushpin:` | :triangular_flag_on_post: `:triangular_flag_on_post:` |
 | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
 
