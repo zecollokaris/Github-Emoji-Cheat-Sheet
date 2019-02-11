@@ -246,7 +246,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :police_car: `:police_car:` | :oncoming_police_car: `:oncoming_police_car:` | :fire_engine: `:fire_engine:` |
 | :ambulance: `:ambulance:` | :minibus: `:minibus:` | :truck: `:truck:` |
 | :train: `:train:` | :station: `:station:` | :train2: `:train2:` |
-
+| :bullettrain_front: `:bullettrain_front:` 
 
 
 
