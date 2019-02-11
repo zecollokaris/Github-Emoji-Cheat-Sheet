@@ -239,7 +239,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :rocket: `:rocket:` | :airplane: `:airplane:` | :helicopter: `:helicopter:` |
 | :steam_locomotive: `:steam_locomotive:` | :tram: `:tram:` | :mountain_railway: `:mountain_railway:` |
 | :bike: `:bike:` | :aerial_tramway: `:aerial_tramway:` | :suspension_railway: `:suspension_railway:` |
-
+| :mountain_cableway: `:mountain_cableway:` 
 
 
 
