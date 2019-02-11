@@ -244,7 +244,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :taxi: `:taxi:` | :oncoming_taxi: `:oncoming_taxi:` | :articulated_lorry: `:articulated_lorry:` |
 | :bus: `:bus:` | :oncoming_bus: `:oncoming_bus:` | :rotating_light: `:rotating_light:` |
 | :police_car: `:police_car:` | :oncoming_police_car: `:oncoming_police_car:` | :fire_engine: `:fire_engine:` |
-
+| :ambulance: `:ambulance:` 
 
 
 
