@@ -252,7 +252,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :traffic_light: `:traffic_light:` | :warning: `:warning:` | :construction: `:construction:` |
 | :beginner: `:beginner:` | :atm: `:atm:` | :slot_machine: `:slot_machine:` |
 | :busstop: `:busstop:` | :barber: `:barber:` | :hotsprings: `:hotsprings:` |
-
+| :checkered_flag: `:checkered_flag:` 
 
 
 
