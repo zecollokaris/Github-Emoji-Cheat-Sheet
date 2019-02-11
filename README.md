@@ -232,7 +232,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :tent: `:tent:` | :factory: `:factory:` | :tokyo_tower: `:tokyo_tower:` |
 | :japan: `:japan:` | :mount_fuji: `:mount_fuji:` | :sunrise_over_mountains: `:sunrise_over_mountains:` |
 | :sunrise: `:sunrise:` | :stars: `:stars:` | :statue_of_liberty: `:statue_of_liberty:` |
-| :bridge_at_night: `:bridge_at_night:` | :carousel_horse: `:carousel_horse:` | :rainbow: `:rainbow:` |
+| :bridge_at_night: `:bridge_at_night:` | :round_pushpin: `:round_pushpin:` | :rainbow: `:rainbow:` |
 | :ferris_wheel: `:ferris_wheel:` | :fountain: `:fountain:` | :roller_coaster: `:roller_coaster:` |
 | :ship: `:ship:` | :speedboat: `:speedboat:` | :boat: `:boat:` |
 | :sailboat: `:sailboat:` | :rowboat: `:rowboat:` | :anchor: `:anchor:` |
@@ -253,10 +253,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :beginner: `:beginner:` | :atm: `:atm:` | :slot_machine: `:slot_machine:` |
 | :busstop: `:busstop:` | :barber: `:barber:` | :hotsprings: `:hotsprings:` |
 | :izakaya_lantern: `:izakaya_lantern:` | :moyai: `:moyai:` | :circus_tent: `:circus_tent:` |
-| :performing_arts: `:performing_arts:` |
+| :performing_arts: `:performing_arts:` | :carousel_horse: `:carousel_horse:` |
 
-| :round_pushpin: `:round_pushpin:` | :triangular_flag_on_post: `:triangular_flag_on_post:` |
-| :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
 
 
