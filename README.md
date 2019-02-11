@@ -125,6 +125,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
+**Objects**
 
 | :triangular_flag_on_post: `:triangular_flag_on_post:` |
 | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
