@@ -251,7 +251,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :ticket: `:ticket:` | :fuelpump: `:fuelpump:` | :vertical_traffic_light: `:vertical_traffic_light:` |
 | :traffic_light: `:traffic_light:` | :warning: `:warning:` | :construction: `:construction:` |
 | :beginner: `:beginner:` | :atm: `:atm:` | :slot_machine: `:slot_machine:` |
-
+| :busstop: `:busstop:` 
 
 
 
