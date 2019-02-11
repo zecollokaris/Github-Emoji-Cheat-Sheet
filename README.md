@@ -241,7 +241,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bike: `:bike:` | :aerial_tramway: `:aerial_tramway:` | :suspension_railway: `:suspension_railway:` |
 | :mountain_cableway: `:mountain_cableway:` | :tractor: `:tractor:` | :blue_car: `:blue_car:` |
 | :oncoming_automobile: `:oncoming_automobile:` | :car: `:car:` | :red_car: `:red_car:` |
-
+| :taxi: `:taxi:` 
 
 
 
