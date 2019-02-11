@@ -237,6 +237,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :ship: `:ship:` | :speedboat: `:speedboat:` | :boat: `:boat:` |
 | :sailboat: `:sailboat:` | :rowboat: `:rowboat:` | :anchor: `:anchor:` |
 | :rocket: `:rocket:` | :airplane: `:airplane:` | :helicopter: `:helicopter:` |
+| :steam_locomotive: `:steam_locomotive:` 
+
 
 
 
