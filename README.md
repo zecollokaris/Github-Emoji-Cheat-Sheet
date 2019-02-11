@@ -249,7 +249,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :bullettrain_front: `:bullettrain_front:` | :bullettrain_side: `:bullettrain_side:` | :light_rail: `:light_rail:` |
 | :monorail: `:monorail:` | :railway_car: `:railway_car:` | :trolleybus: `:trolleybus:` |
 | :ticket: `:ticket:` | :fuelpump: `:fuelpump:` | :vertical_traffic_light: `:vertical_traffic_light:` |
-| :traffic_light: `:traffic_light:` 
+| :traffic_light: `:traffic_light:` | :warning: `:warning:` | 
 
 
 
