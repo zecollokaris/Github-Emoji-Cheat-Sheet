@@ -355,7 +355,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 | Symbols | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
-
+| :one: `:one:` | :two: `:two:` | :three: `:three:` |
 
 
 
