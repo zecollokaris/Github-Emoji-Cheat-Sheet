@@ -181,7 +181,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇲🇰 `🇲🇰` **Macedonia** | 🇲🇱 `🇲🇱` **Mali** | 🇲🇲 `🇲🇲` **Myanmar (Burma)** |
 | 🇲🇳 `🇲🇳` **Mongolia** | 🇲🇴 `🇲🇴` **Macau Sar China** | 🇲🇵 `🇲🇵` **Northern Mariana Islands** |
 | 🇲🇶 `🇲🇶` **Martinique** | 🇲🇷 `🇲🇷` **Mauritania** | 🇲🇸 `🇲🇸` **Montserrat** |
-| 🇲🇹 `🇲🇹` **Malta** | 🇲🇺 `🇲🇺` **Mauritius** | :crossed_flags: `:crossed_flags:` |
+| 🇲🇹 `🇲🇹` **Malta** | 🇲🇺 `🇲🇺` **Mauritius** | 🇲🇻 `🇲🇻` **Maldives** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
