@@ -379,7 +379,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :u7533: `:u7533:` | :u7a7a: `:u7a7a:` | :u7981: `:u7981:` |
 | :sa: `:sa:` | :restroom: `:restroom:` | :mens: `:mens:` |
 | :womens: `:womens:` | :baby_symbol: `:baby_symbol:` | :no_smoking: `:no_smoking:` |
-
+| :parking: `:parking:` | :wheelchair: `:wheelchair:` | :metro: `:metro:` |
 
 
 
