@@ -154,22 +154,26 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇪🇬 `🇪🇬` **Egypt** | 🇪🇭 `🇪🇭` **Western Sahara** | 🇪🇷 `🇪🇷` **Eritrea** |
 | 🇪🇸 `🇪🇸` **Spain** | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 `🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿` **England** | 🇪🇹 `🇪🇹` **Ethiopia** |
 | 🇪🇺 `🇪🇺` **European Union** | 🇫🇮 `🇫🇮` **Finland** | 🇫🇯 `🇫🇯` **Fiji** |
+| 🇫🇰 `🇫🇰` **Falkland Islands** | 🇫🇲 `🇫🇲` **Micronesia** | 🇫🇴 `🇫🇴` **Faroe Islands** |
+| 🇫🇷 `🇫🇷` **France** | 🇬🇦 `🇬🇦` **Gabon** | 🇬🇧 `United Kingdom` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | 🏴‍☠️ `🏴‍☠️` **Pirate Flag** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
 
-🇫🇮 Flag: Finland
-🇫🇯 Flag: Fiji
-🇫🇰 Flag: Falkland Islands
-🇫🇲 Flag: Micronesia
-🇫🇴 Flag: Faroe Islands
-🇫🇷 Flag: France
-🇬🇦 Flag: Gabon
+
 🇬🇧 Flag: United Kingdom
 🇬🇩 Flag: Grenada
 🇬🇪 Flag: Georgia
