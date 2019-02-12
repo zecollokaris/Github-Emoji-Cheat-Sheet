@@ -130,8 +130,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | Flags | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| 🇦🇩 `🇦🇩` **Andorra** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇦🇩 `🇦🇩` **Andorra** | 🇦🇪 `🇦🇪` **United Arab Emirates** | 🇦🇫 `🇦🇫` **Afghanistan** |
+| 🇦🇬 `🇦🇬` **Antigua & Barbuda** | 🇦🇮 `🇦🇮` **Anguilla** | 🇦🇱 `🇦🇱` **Albania** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -159,12 +159,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-🇦🇩 Flag: Andorra
-🇦🇪 Flag: United Arab Emirates
-🇦🇫 Flag: Afghanistan
-🇦🇬 Flag: Antigua & Barbuda
-🇦🇮 Flag: Anguilla
-🇦🇱 Flag: Albania
 🇦🇲 Flag: Armenia
 🇦🇴 Flag: Angola
 🇦🇶 Flag: Antarctica
@@ -226,6 +220,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇪🇭 Flag: Western Sahara
 🇪🇷 Flag: Eritrea
 🇪🇸 Flag: Spain
+🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
 🇪🇹 Flag: Ethiopia
 🇪🇺 Flag: European Union
 🇫🇮 Flag: Finland
@@ -406,7 +401,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇿🇦 Flag: South Africa
 🇿🇲 Flag: Zambia
 🇿🇼 Flag: Zimbabwe
-🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
+
 
 
 
