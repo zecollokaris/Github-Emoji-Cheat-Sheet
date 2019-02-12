@@ -206,7 +206,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇹🇱 `🇹🇱` **Timor-Leste** | 🇹🇲 `🇹🇲` **Turkmenistan** | 🇹🇳 `🇹🇳` **Tunisia** |
 | 🇹🇴 `🇹🇴` **Tonga** | 🇹🇷 `🇹🇷` **Turkey** | 🇹🇹 `🇹🇹` **Trinidad & Tobago** |
 | 🇹🇻 `🇹🇻` **Tuvalu** | 🇹🇼 `🇹🇼` **Taiwan** | 🇹🇿 `🇹🇿` **Tanzania** |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇺🇦 `🇺🇦` **Ukraine** | 🇺🇬 `🇺🇬` **Uganda** | 🇺🇸 `🇺🇸` **United States** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
@@ -216,11 +216,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-
-🇹🇼 Flag: Taiwan
-🇹🇿 Flag: Tanzania
-🇺🇦 Flag: Ukraine
-🇺🇬 Flag: Uganda
 🇺🇸 Flag: United States
 🇺🇾 Flag: Uruguay
 🇺🇿 Flag: Uzbekistan
