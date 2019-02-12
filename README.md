@@ -380,6 +380,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :sa: `:sa:` | :restroom: `:restroom:` | :mens: `:mens:` |
 | :womens: `:womens:` | :baby_symbol: `:baby_symbol:` | :no_smoking: `:no_smoking:` |
 | :parking: `:parking:` | :wheelchair: `:wheelchair:` | :metro: `:metro:` |
+| :baggage_claim: `:baggage_claim:` | :accept: `:accept:` | :wc: `:wc:` |
 
 
 
