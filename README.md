@@ -386,7 +386,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :left_luggage: `:left_luggage:` | :customs: `:customs:` | :ideograph_advantage: `:ideograph_advantage:` |
 | :cl: `:cl:` | :sos: `:sos:` | :id: `:id:` |
 | :no_entry_sign: `:no_entry_sign:` | :underage: `:underage:` | :no_mobile_phones: `:no_mobile_phones:` |
-
+| :do_not_litter: `:do_not_litter:` | :non-potable_water: `:non-potable_water:` | :no_bicycles: `:no_bicycles:` |
 
 
 
