@@ -188,12 +188,12 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇳🇱 `🇳🇱` **Netherlands** | 🇳🇴 `🇳🇴` **Norway** | 🇳🇵 `🇳🇵` **Nepal** |
 | 🇳🇷 `🇳🇷` **Nauru** | 🇳🇺 `🇳🇺` **Niue** | 🇳🇿 `🇳🇿` **New Zealand** |
 | 🇴🇲 `🇴🇲` **Oman** | 🇵🇦 `🇵🇦` **Panama** | 🇵🇪 `🇵🇪` **Peru** |
-| 🇵🇫 `🇵🇫` **French Polynesia** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇵🇫 `🇵🇫` **French Polynesia** | 🇵🇭 `🇵🇭` **Philippines** | 🇵🇰 `🇵🇰` **Pakistan** |
+| 🇵🇬 `🇵🇬` **Papua New Guinea** | 🇵🇱 `🇵🇱` **Poland**  | 🇵🇲 `🇵🇲` **St. Pierre & Miquelon** |
+| 🇵🇳 `🇵🇳` **Pitcairn Islands** | 🇵🇷 `🇵🇷` **Puerto Rico** | 🇵🇸 `🇵🇸` **Palestinian Territories** |
+| 🇵🇹 `🇵🇹` **Portugal** | 🇵🇼 `🇵🇼` **Palau** | 🇵🇾 `🇵🇾` **Paraguay** |
+| 🇶🇦 `🇶🇦` **Qatar** | 🇷🇪 `🇷🇪` **Réunion** | 🇷🇴 `🇷🇴` **Romania** |
+| 🇷🇸 `🇷🇸` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -211,21 +211,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-🇵🇫 Flag: French Polynesia
-🇵🇬 Flag: Papua New Guinea
-🇵🇭 Flag: Philippines
-🇵🇰 Flag: Pakistan
-🇵🇱 Flag: Poland
-🇵🇲 Flag: St. Pierre & Miquelon
-🇵🇳 Flag: Pitcairn Islands
-🇵🇷 Flag: Puerto Rico
-🇵🇸 Flag: Palestinian Territories
-🇵🇹 Flag: Portugal
-🇵🇼 Flag: Palau
-🇵🇾 Flag: Paraguay
-🇶🇦 Flag: Qatar
-🇷🇪 Flag: Réunion
-🇷🇴 Flag: Romania
 🇷🇸 Flag: Serbia
 🇷🇺 Flag: Russia
 🇷🇼 Flag: Rwanda
