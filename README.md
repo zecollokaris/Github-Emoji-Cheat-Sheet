@@ -172,8 +172,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇰🇾 `🇰🇾` **Cayman Islands** | 🇰🇭 `🇰🇭` **Cambodia** | 🇰🇮 `🇰🇮` **Kiribati** |
 | 🇰🇲 `🇰🇲` **Comoros** | 🇰🇳 `🇰🇳` **St. Kitts & Nevis** | 🇰🇵 `🇰🇵` **North Korea** |
 | 🇰🇷 `🇰🇷` **South Korea** | 🇰🇼 `🇰🇼` **Kuwait** | 🇰🇿 `🇰🇿` **Kazakhstan** |
-| 🇰🇪 `🇰🇪` **KENYA** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇰🇪 `🇰🇪` **KENYA** | 🇱🇦 `🇱🇦` **Laos** | 🇱🇧 `🇱🇧` **Lebanon** |
+| 🇱🇨 `🇱🇨` **St. Lucia** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
 
@@ -185,9 +185,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-🇰🇿 Flag: Kazakhstan
-🇱🇦 Flag: Laos
-🇱🇧 Flag: Lebanon
+
 🇱🇨 Flag: St. Lucia
 🇱🇮 Flag: Liechtenstein
 🇱🇰 Flag: Sri Lanka
