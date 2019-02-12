@@ -372,6 +372,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :ok: `:ok:` | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | :repeat: `:repeat:` |
 | :repeat_one: `:repeat_one:` | :new: `:new:` | :top: `:top:` |
 | :up: `:up:` | :cool: `:cool:` | :free: `:free:` |
+| :ng: `:ng:` | :cinema: `:cinema:` | :koko: `:koko:` |
 
 
 
