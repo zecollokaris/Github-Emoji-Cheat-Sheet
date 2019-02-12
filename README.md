@@ -164,8 +164,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇬🇼 `🇬🇼` **Guinea-Bissau** | 🇬🇾 `🇬🇾` **Guyana** | 🇭🇰 `🇭🇰` **Hong Kong SAR China** |
 | 🇭🇳 `🇭🇳` **Honduras** | 🇭🇷 `🇭🇷` **Croatia** | 🇭🇹 `🇭🇹` **Haiti** |
 | 🇭🇺 `🇭🇺` **Hungary** | 🇮🇨 `🇮🇨` **Canary Islands** | 🇮🇩 `🇮🇩` **Indonesia** |
-| 🇮🇪 `🇮🇪` **Ireland** | 🇮🇱 `🇮🇱` **Israel** | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇮🇪 `🇮🇪` **Ireland** | 🇮🇱 `🇮🇱` **Israel** | 🇮🇲 `🇮🇲` **Isle of Man** |
+| 🇮🇳 `🇮🇳` **India** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | 🏴‍☠️ `🏴‍☠️` **Pirate Flag** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
@@ -174,11 +174,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-
-
-🇮🇱 Flag: Israel
-🇮🇲 Flag: Isle of Man
-🇮🇳 Flag: India
 🇮🇴 Flag: British Indian Ocean Territory
 🇮🇶 Flag: Iraq
 🇮🇷 Flag: Iran
