@@ -357,7 +357,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 |---|---|---|
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
-
+| :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
 
 
 
