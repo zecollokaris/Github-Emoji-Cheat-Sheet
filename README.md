@@ -6,7 +6,10 @@ After sending a application to a **software developer job** where one of the qua
 
 Anyway I just remembered how I really strugged at first to get emojis on github. So I decided to add up with this coz im sure it will **really help in making your Markdown files very colourful**.
 
-:point_right: **Check them out too on a web page:** https://zecollokaris.github.io/Web-moji/.
+
+:point_right: **Click to check out on a gist: [GIST](https://gist.github.com/zecollokaris/85ccf40db8841b3c7f84e92b0803d896.)** 
+
+:point_right: **Click to check them out too on a web page: [WEBSITE](https://zecollokaris.github.io/Web-moji/.)**
 
 
 **People**
