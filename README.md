@@ -168,10 +168,10 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇮🇳 `🇮🇳` **India** | 🇮🇴 `🇮🇴` **British Indian Ocean Territory** | 🇮🇶 `🇮🇶` **Iraq** |
 | 🇮🇷 `🇮🇷` **Iran** | 🇮🇸 `🇮🇸` **Iceland** | 🇮🇹 `🇮🇹` **Italy** |
 | 🇯🇪 `🇯🇪` **Jersey** | 🇯🇲 `🇯🇲` **Jamaica** | 🇯🇴 `🇯🇴` **Jordan** |
-| 🇯🇵 `🇯🇵` **Japan** | 🇰🇪 `🇰🇪` **Kenya** | :crossed_flags: `:crossed_flags:` |
-| 🇰🇪 `🇰🇪` **KENYA** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇯🇵 `🇯🇵` **Japan** | 🇰🇪 `🇰🇪` **Kenya** | 🇰🇬 `🇰🇬` **Kyrgyzstan** |
+| 🇰🇪 `🇰🇪` **KENYA** | 🇰🇭 `🇰🇭` **Cambodia** | 🇰🇮 `🇰🇮` **Kiribati** |
+| 🇰🇲 `🇰🇲` **Comoros** | 🇰🇳 `🇰🇳` **St. Kitts & Nevis** | 🇰🇵 `🇰🇵` **North Korea** |
+| 🇰🇷 `🇰🇷` **South Korea** | 🇰🇼 `🇰🇼` **Kuwait** | 🇰🇾 `🇰🇾` **Cayman Islands** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -184,16 +184,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-
-🇰🇪 Flag: Kenya
-🇰🇬 Flag: Kyrgyzstan
-🇰🇭 Flag: Cambodia
-🇰🇮 Flag: Kiribati
-🇰🇲 Flag: Comoros
-🇰🇳 Flag: St. Kitts & Nevis
-🇰🇵 Flag: North Korea
-🇰🇷 Flag: South Korea
-🇰🇼 Flag: Kuwait
 🇰🇾 Flag: Cayman Islands
 🇰🇿 Flag: Kazakhstan
 🇱🇦 Flag: Laos
