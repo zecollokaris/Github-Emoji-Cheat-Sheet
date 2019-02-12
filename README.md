@@ -142,12 +142,12 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇧🇳 `🇧🇳` **Brunei** | 🇧🇴 `🇧🇴` **Bolivia** | 🇧🇶 `🇧🇶` **Caribbean Netherlands** |
 | 🇧🇷 `🇧🇷` **Brazil** | 🇧🇸 `🇧🇸` **Bahamas** | 🇧🇹 `🇧🇹` **Bhutan** |
 | 🇧🇼 `🇧🇼` **Botswana** | 🇧🇾 `🇧🇾` **Belarus** | 🇧🇿 `🇧🇿` **Belize** |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇨🇦 `🇨🇦` **Canada** | 🇨🇨 `🇨🇨` **Cocos (Keeling) Islands** | 🇨🇩 `🇨🇩` **Kinshasa** |
+| 🇨🇫 `🇨🇫` **Central African Republic** | 🇨🇬 `🇨🇬` **Congo - Brazzaville** | 🇨🇭 `🇨🇭` **Switzerland** |
+| 🇨🇮 `🇨🇮` **Côte d’Ivoire** | 🇨🇰 `🇨🇰` **Cook Islands** | 🇨🇱 `🇨🇱` **Chile** |
+| 🇨🇲 `🇨🇲` **Cameroon** | 🇨🇳 `🇨🇳` **China** | 🇨🇴 `🇨🇴` **Colombia** |
+| 🇨🇷 `🇨🇷` **Costa Rica** | 🇨🇺 `🇨🇺` **Cuba** | 🇨🇻 `🇨🇻` **Cape Verde** |
+| 🇨🇼 `🇨🇼` **Curaçao** | 🇨🇽 `🇨🇽` **Christmas Island** | 🇨🇾 `🇨🇾` **Cyprus** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -164,25 +164,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-
-🇧🇿 Flag: Belize
-🇨🇦 Flag: Canada
-🇨🇨 Flag: Cocos (Keeling) Islands
-🇨🇩 Flag: Congo - Kinshasa
-🇨🇫 Flag: Central African Republic
-🇨🇬 Flag: Congo - Brazzaville
-🇨🇭 Flag: Switzerland
-🇨🇮 Flag: Côte d’Ivoire
-🇨🇰 Flag: Cook Islands
-🇨🇱 Flag: Chile
-🇨🇲 Flag: Cameroon
-🇨🇳 Flag: China
-🇨🇴 Flag: Colombia
-🇨🇷 Flag: Costa Rica
-🇨🇺 Flag: Cuba
-🇨🇻 Flag: Cape Verde
-🇨🇼 Flag: Curaçao
-🇨🇽 Flag: Christmas Island
 🇨🇾 Flag: Cyprus
 🇨🇿 Flag: Czechia
 🇩🇪 Flag: Germany
