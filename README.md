@@ -193,7 +193,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇵🇳 `🇵🇳` **Pitcairn Islands** | 🇵🇷 `🇵🇷` **Puerto Rico** | 🇵🇸 `🇵🇸` **Palestinian Territories** |
 | 🇵🇹 `🇵🇹` **Portugal** | 🇵🇼 `🇵🇼` **Palau** | 🇵🇾 `🇵🇾` **Paraguay** |
 | 🇶🇦 `🇶🇦` **Qatar** | 🇷🇪 `🇷🇪` **Réunion** | 🇷🇴 `🇷🇴` **Romania** |
-| 🇷🇸 `🇷🇸` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇷🇸 `🇷🇸` **Serbia** | 🇷🇺 `🇷🇺` **Russia** | 🇷🇼 `🇷🇼` **Rwanda** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -210,10 +210,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
-
-🇷🇸 Flag: Serbia
-🇷🇺 Flag: Russia
-🇷🇼 Flag: Rwanda
 🇸🇦 Flag: Saudi Arabia
 🇸🇧 Flag: Solomon Islands
 🇸🇨 Flag: Seychelles
