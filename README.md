@@ -200,8 +200,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇸🇱 `🇸🇱` **Sierra Leone** | 🇸🇲 `🇸🇲` **San Marino** | 🇸🇳 `🇸🇳` **Senegal** |
 | 🇸🇴 `🇸🇴` **Somalia** | 🇸🇷 `🇸🇷` **Suriname** | 🇸🇸 `🇸🇸` **South Sudan** |
 | 🇸🇹 `🇸🇹` **São Tomé & Príncipe** | 🇸🇻 `🇸🇻` **El Salvador** | 🇸🇽 `🇸🇽` **Sint Maarten** |
-| 🇸🇾 `🇸🇾` **Syria** | 🇸🇿 `🇸🇿` **Swaziland** | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇸🇾 `🇸🇾` **Syria** | 🇸🇿 `🇸🇿` **Swaziland** | 🇹🇨 `🇹🇨` **Turks & Caicos Islands** |
+| 🇹🇩 `🇹🇩` **Chad** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
 
@@ -211,10 +211,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-
-🇸🇿 Flag: Swaziland
-🇹🇨 Flag: Turks & Caicos Islands
-🇹🇩 Flag: Chad
 🇹🇫 Flag: French Southern Territories
 🇹🇬 Flag: Togo
 🇹🇭 Flag: Thailand
