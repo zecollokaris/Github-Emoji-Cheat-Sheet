@@ -125,6 +125,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
+
 **Flags**
 
 | Flags | Emoji | CheatSheet :clipboard:	 |
@@ -215,28 +216,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇿🇲 `🇿🇲` **Zambia** | 🇿🇼 `🇿🇼` **Zimbabwe** | 🏴‍☠️ `🏴‍☠️` **Pirate Flag** |
 | 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
-
-
-🇿🇼 Flag: Zimbabwe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 **Objects**
