@@ -362,6 +362,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :hash: `:hash:` | :symbols: `:symbols:` | :arrow_backward: `:arrow_backward:` |
 | :arrow_down: `:arrow_down:` | :arrow_forward: `:arrow_forward:` | :arrow_left: `:arrow_left:` |
 | :capital_abcd: `:capital_abcd:` | :abcd: `:abcd:` | :abc: `:abc:` |
+| :arrow_lower_left: `:arrow_lower_left:` | :arrow_lower_right: `:arrow_lower_right:` | :arrow_right: `:arrow_right:` |
 
 
 
