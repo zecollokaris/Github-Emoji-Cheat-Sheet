@@ -132,9 +132,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | 🇦🇩 `🇦🇩` **Andorra** | 🇦🇪 `🇦🇪` **United Arab Emirates** | 🇦🇫 `🇦🇫` **Afghanistan** |
 | 🇦🇬 `🇦🇬` **Antigua & Barbuda** | 🇦🇮 `🇦🇮` **Anguilla** | 🇦🇱 `🇦🇱` **Albania** |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇦🇲 `🇦🇲` **Armenia** | 🇦🇴 `🇦🇴` **Angola** | 🇦🇶 `🇦🇶` **Antarctica** |
+| 🇦🇷 `🇦🇷` **Argentina** | 🇦🇸 `🇦🇸` **American Samoa** | 🇦🇹 `🇦🇹` **Austria** |
+| 🇦🇺 `🇦🇺` **Australia** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -155,16 +155,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-
-
-
-
-🇦🇲 Flag: Armenia
-🇦🇴 Flag: Angola
-🇦🇶 Flag: Antarctica
-🇦🇷 Flag: Argentina
-🇦🇸 Flag: American Samoa
-🇦🇹 Flag: Austria
 🇦🇺 Flag: Australia
 🇦🇼 Flag: Aruba
 🇦🇽 Flag: Åland Islands
