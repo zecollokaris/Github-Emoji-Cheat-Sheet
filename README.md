@@ -392,7 +392,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :vs: `:vs:` | :vibration_mode: `:vibration_mode:` | :mobile_phone_off: `:mobile_phone_off:` |
 | :chart: `:chart:` | :currency_exchange: `:currency_exchange:` | :aries: `:aries:` |
 | :taurus: `:taurus:` | :gemini: `:gemini:` | :cancer: `:cancer:` |
-
+| :leo: `:leo:` | :virgo: `:virgo:` | :libra: `:libra:` |
 
 
 
