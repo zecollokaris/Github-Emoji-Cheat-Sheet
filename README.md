@@ -140,10 +140,23 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇧🇬 `🇧🇬` **Bulgaria** | 🇧🇭 `🇧🇭` **Bahrain** | 🇧🇮 `🇧🇮` **Burundi** |
 | 🇧🇯 `🇧🇯` **Benin** | 🇧🇱 `🇧🇱` **Barthélemy** | 🇧🇲 `🇧🇲` **Bermuda** |
 | 🇧🇳 `🇧🇳` **Brunei** | 🇧🇴 `🇧🇴` **Bolivia** | 🇧🇶 `🇧🇶` **Caribbean Netherlands** |
+| 🇧🇷 `🇧🇷` **Brazil** | 🇧🇸 `🇧🇸` **Bahamas** | 🇧🇹 `🇧🇹` **Bhutan** |
+| 🇧🇼 `🇧🇼` **Botswana** | 🇧🇾 `🇧🇾` **Belarus** | 🇧🇿 `🇧🇿` **Belize** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+
 | 🏴‍☠️ `🏴‍☠️` **Pirate Flag** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
@@ -151,11 +164,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-🇧🇷 Flag: Brazil
-🇧🇸 Flag: Bahamas
-🇧🇹 Flag: Bhutan
-🇧🇼 Flag: Botswana
-🇧🇾 Flag: Belarus
+
 🇧🇿 Flag: Belize
 🇨🇦 Flag: Canada
 🇨🇨 Flag: Cocos (Keeling) Islands
