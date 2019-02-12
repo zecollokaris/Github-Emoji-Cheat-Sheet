@@ -144,9 +144,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| 🏴‍☠️ `🏴‍☠️` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| 🏴 `🏴` | 🏳 `🏳` | 🏳️‍🌈 `🏳️‍🌈` |
-| 🏁 `🏁` | 🚩 `🚩` | 🎌 `🎌` |
+| 🏴‍☠️ `🏴‍☠️` **Pirate Flag** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
+| 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
 
