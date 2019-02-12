@@ -369,7 +369,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :arrow_right_hook: `:arrow_right_hook:` | :left_right_arrow: `:left_right_arrow:` | :arrow_up_down: `:arrow_up_down:` |
 | :arrow_up_small: `:arrow_up_small:` | :arrows_clockwise: `:arrows_clockwise:` | :arrows_counterclockwise: `:arrows_counterclockwise:` |
 | :rewind: `:rewind:` | :fast_forward: `:fast_forward:` | :information_source: `:information_source:` |
-
+| :ok: `:ok:` | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | :repeat: `:repeat:` |
+| :repeat_one: `:repeat_one:` | :new: `:new:` | :top: `:top:` |
 
 
 
