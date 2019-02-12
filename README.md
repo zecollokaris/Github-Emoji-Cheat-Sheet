@@ -377,6 +377,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :u55b6: `:u55b6:` | :u6307: `:u6307:` | :u6708: `:u6708:` |
 | :u6709: `:u6709:` | :u6e80: `:u6e80:` | :u7121: `:u7121:` |
 | :u7533: `:u7533:` | :u7a7a: `:u7a7a:` | :u7981: `:u7981:` |
+| :sa: `:sa:` | :restroom: `:restroom:` | :mens: `:mens:` |
 
 
 
