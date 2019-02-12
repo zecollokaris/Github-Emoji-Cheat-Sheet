@@ -406,9 +406,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇿🇦 Flag: South Africa
 🇿🇲 Flag: Zambia
 🇿🇼 Flag: Zimbabwe
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
-🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 Flag: Scotland
-🏴󠁧󠁢󠁷󠁬󠁳󠁿 Flag: Wales
+🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
 
 
 
