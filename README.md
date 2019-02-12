@@ -186,8 +186,8 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇲🇿 `🇲🇿` **Mozambique** | 🇳🇦 `🇳🇦` **Namibia** | 🇳🇨 `🇳🇨` **New Caledonia** |
 | 🇳🇫 `🇳🇫` **Norfolk Island** | 🇳🇬 `🇳🇬` **Nigeria** | 🇳🇮 `🇳🇮` **Nicaragua** |
 | 🇳🇱 `🇳🇱` **Netherlands** | 🇳🇴 `🇳🇴` **Norway** | 🇳🇵 `🇳🇵` **Nepal** |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇳🇷 `🇳🇷` **Nauru** | 🇳🇺 `🇳🇺` **Niue** | 🇳🇿 `🇳🇿` **New Zealand** |
+| 🇴🇲 `🇴🇲` **Oman** | 🇵🇦 `🇵🇦` **Panama** | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -211,11 +211,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-🇳🇵 Flag: Nepal
-🇳🇷 Flag: Nauru
-🇳🇺 Flag: Niue
-🇳🇿 Flag: New Zealand
-🇴🇲 Flag: Oman
 🇵🇦 Flag: Panama
 🇵🇪 Flag: Peru
 🇵🇫 Flag: French Polynesia
