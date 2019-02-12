@@ -359,7 +359,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
 | :keycap_ten: `:keycap_ten:` | :1234: `:1234:` | :zero: `:zero:` |
-
+| :hash: `:hash:` | :symbols: `:symbols:` | :arrow_backward: `:arrow_backward:` |
 
 ## :construction: CONSTRUCTION STILL IN PROGRESS!!! :construction_worker: :construction:
 
