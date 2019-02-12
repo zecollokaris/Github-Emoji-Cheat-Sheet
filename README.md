@@ -391,7 +391,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :eight_spoked_asterisk: `:eight_spoked_asterisk:` | :eight_pointed_black_star: `:eight_pointed_black_star:` | :heart_decoration: `:heart_decoration:` |
 | :vs: `:vs:` | :vibration_mode: `:vibration_mode:` | :mobile_phone_off: `:mobile_phone_off:` |
 | :chart: `:chart:` | :currency_exchange: `:currency_exchange:` | :aries: `:aries:` |
-
+| :taurus: `:taurus:` | :gemini: `:gemini:` | :cancer: `:cancer:` |
 
 
 
