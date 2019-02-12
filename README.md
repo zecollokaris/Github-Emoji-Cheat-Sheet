@@ -373,6 +373,13 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :repeat_one: `:repeat_one:` | :new: `:new:` | :top: `:top:` |
 | :up: `:up:` | :cool: `:cool:` | :free: `:free:` |
 | :ng: `:ng:` | :cinema: `:cinema:` | :koko: `:koko:` |
+| :signal_strength: `:signal_strength:` | :u5272: `:u5272:` | :u5408: `:u5408:` |
+
+
+
+
+
+
 
 
 
