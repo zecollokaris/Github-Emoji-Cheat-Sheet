@@ -212,7 +212,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇻🇮 `🇻🇮` **U.S. Virgin Islands** | 🇻🇳 `🇻🇳` **Vietnam** | 🇻🇺 `🇻🇺` **Vanuatu** |
 | 🇼🇫 `🇼🇫` **Wallis & Futuna** | 🇼🇸 `🇼🇸` **Samoa** | 🇽🇰 `🇽🇰` **Kosovo** |
 | 🇾🇪 `🇾🇪` **Yemen** | 🇾🇹 `🇾🇹` **Mayotte** | 🇿🇦 `🇿🇦` **South Africa** |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇿🇲 `🇿🇲` **Zambia** | 🇿🇼 `🇿🇼` **Zimbabwe** | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
 | 🏴‍☠️ `🏴‍☠️` **Pirate Flag** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -220,8 +220,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-🇿🇦 Flag: South Africa
-🇿🇲 Flag: Zambia
 🇿🇼 Flag: Zimbabwe
 
 
