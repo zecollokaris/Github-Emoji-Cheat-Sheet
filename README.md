@@ -214,6 +214,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇼🇫 `🇼🇫` **Wallis & Futuna** | 🇼🇸 `🇼🇸` **Samoa** | 🇽🇰 `🇽🇰` **Kosovo** |
 | 🇾🇪 `🇾🇪` **Yemen** | 🇾🇹 `🇾🇹` **Mayotte** | 🇿🇦 `🇿🇦` **South Africa** |
 | 🇿🇲 `🇿🇲` **Zambia** | 🇿🇼 `🇿🇼` **Zimbabwe** | 🏴‍☠️ `🏴‍☠️` **Pirate Flag** |
+| :kr: `:kr:` **South Korea** | :cn: `:cn:` **China** | :de: `:de:` **German** |
+| :fr: `:fr:` **France** | :es: `:es:` **Spain** | :it: `:it:` **Italy** |
+| :ru: `:ru:` **Russia** | :gb: `:gb:` **Great Britain** | :uk: `:uk:` **United Kingdom** |
 | 🏴 `🏴` **Black Flag** | 🏳 `🏳` **White Flag** | 🏳️‍🌈 `🏳️‍🌈` **Rainbow Flag** |
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
