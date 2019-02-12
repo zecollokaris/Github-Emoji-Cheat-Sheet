@@ -156,13 +156,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-🏁 Chequered Flag
-🚩 Triangular Flag
-🎌 Crossed Flags
-🏴 Black Flag
-🏳 White Flag
-🏳️‍🌈 Rainbow Flag
-🏴‍☠️ Pirate Flag
+
 
 
 🇦🇩 Flag: Andorra
@@ -198,7 +192,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇧🇷 Flag: Brazil
 🇧🇸 Flag: Bahamas
 🇧🇹 Flag: Bhutan
-🇧🇻 Flag: Bouvet Island
 🇧🇼 Flag: Botswana
 🇧🇾 Flag: Belarus
 🇧🇿 Flag: Belize
@@ -214,7 +207,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇨🇲 Flag: Cameroon
 🇨🇳 Flag: China
 🇨🇴 Flag: Colombia
-🇨🇵 Flag: Clipperton Island
 🇨🇷 Flag: Costa Rica
 🇨🇺 Flag: Cuba
 🇨🇻 Flag: Cape Verde
@@ -223,13 +215,11 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇨🇾 Flag: Cyprus
 🇨🇿 Flag: Czechia
 🇩🇪 Flag: Germany
-🇩🇬 Flag: Diego Garcia
 🇩🇯 Flag: Djibouti
 🇩🇰 Flag: Denmark
 🇩🇲 Flag: Dominica
 🇩🇴 Flag: Dominican Republic
 🇩🇿 Flag: Algeria
-🇪🇦 Flag: Ceuta & Melilla
 🇪🇨 Flag: Ecuador
 🇪🇪 Flag: Estonia
 🇪🇬 Flag: Egypt
@@ -264,7 +254,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇬🇼 Flag: Guinea-Bissau
 🇬🇾 Flag: Guyana
 🇭🇰 Flag: Hong Kong SAR China
-🇭🇲 Flag: Heard & McDonald Islands
 🇭🇳 Flag: Honduras
 🇭🇷 Flag: Croatia
 🇭🇹 Flag: Haiti
@@ -310,7 +299,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇲🇨 Flag: Monaco
 🇲🇩 Flag: Moldova
 🇲🇪 Flag: Montenegro
-🇲🇫 Flag: St. Martin
 🇲🇬 Flag: Madagascar
 🇲🇭 Flag: Marshall Islands
 🇲🇰 Flag: Macedonia
@@ -370,7 +358,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇸🇬 Flag: Singapore
 🇸🇭 Flag: St. Helena
 🇸🇮 Flag: Slovenia
-🇸🇯 Flag: Svalbard & Jan Mayen
 🇸🇰 Flag: Slovakia
 🇸🇱 Flag: Sierra Leone
 🇸🇲 Flag: San Marino
@@ -383,7 +370,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇸🇽 Flag: Sint Maarten
 🇸🇾 Flag: Syria
 🇸🇿 Flag: Swaziland
-🇹🇦 Flag: Tristan Da Cunha
 🇹🇨 Flag: Turks & Caicos Islands
 🇹🇩 Flag: Chad
 🇹🇫 Flag: French Southern Territories
@@ -402,8 +388,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇹🇿 Flag: Tanzania
 🇺🇦 Flag: Ukraine
 🇺🇬 Flag: Uganda
-🇺🇲 Flag: U.S. Outlying Islands
-🇺🇳 Flag: United Nations
 🇺🇸 Flag: United States
 🇺🇾 Flag: Uruguay
 🇺🇿 Flag: Uzbekistan
@@ -423,7 +407,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🇿🇲 Flag: Zambia
 🇿🇼 Flag: Zimbabwe
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
-🏴󠁧󠁢󠁳󠁣󠁴󠁿 Flag: Scotland
+🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 Flag: Scotland
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Flag: Wales
 
 
