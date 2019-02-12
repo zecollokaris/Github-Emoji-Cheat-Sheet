@@ -204,7 +204,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇹🇩 `🇹🇩` **Chad** | 🇹🇫 `🇹🇫` **French Southern Territories** | 🇹🇬 `🇹🇬` **Togo** |
 | 🇹🇭 `🇹🇭` **Thailand** | 🇹🇯 `🇹🇯` **Tajikistan** | 🇹🇰 `🇹🇰` **Tokelau** |
 | 🇹🇱 `🇹🇱` **Timor-Leste** | 🇹🇲 `🇹🇲` **Turkmenistan** | 🇹🇳 `🇹🇳` **Tunisia** |
-| 🇹🇴 `🇹🇴` **Tonga** | 🇹🇷 `🇹🇷` **Turkey** | :crossed_flags: `:crossed_flags:` |
+| 🇹🇴 `🇹🇴` **Tonga** | 🇹🇷 `🇹🇷` **Turkey** | 🇹🇹 `🇹🇹` **Trinidad & Tobago** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -216,8 +216,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-🇹🇷 Flag: Turkey
-🇹🇹 Flag: Trinidad & Tobago
 🇹🇻 Flag: Tuvalu
 🇹🇼 Flag: Taiwan
 🇹🇿 Flag: Tanzania
