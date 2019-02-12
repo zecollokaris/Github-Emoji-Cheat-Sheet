@@ -130,7 +130,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | Flags | Emoji | CheatSheet :clipboard:	 |
 |---|---|---|
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| 🇦🇨 `🇦🇨` -Flag: Ascension Island | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇦🇩 `🇦🇩` -Flag: Andorra | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -164,7 +164,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 🏳️‍🌈 Rainbow Flag
 🏴‍☠️ Pirate Flag
 
-🇦🇨 Flag: Ascension Island
+
 🇦🇩 Flag: Andorra
 🇦🇪 Flag: United Arab Emirates
 🇦🇫 Flag: Afghanistan
