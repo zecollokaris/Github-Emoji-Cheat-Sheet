@@ -387,7 +387,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :cl: `:cl:` | :sos: `:sos:` | :id: `:id:` |
 | :no_entry_sign: `:no_entry_sign:` | :underage: `:underage:` | :no_mobile_phones: `:no_mobile_phones:` |
 | :do_not_litter: `:do_not_litter:` | :non-potable_water: `:non-potable_water:` | :no_bicycles: `:no_bicycles:` |
-
+| :no_pedestrians: `:no_pedestrians:` | :children_crossing: `:children_crossing:` | :no_entry: `:no_entry:` |
 
 
 
