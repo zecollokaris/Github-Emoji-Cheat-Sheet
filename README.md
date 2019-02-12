@@ -148,12 +148,12 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇨🇲 `🇨🇲` **Cameroon** | 🇨🇳 `🇨🇳` **China** | 🇨🇴 `🇨🇴` **Colombia** |
 | 🇨🇷 `🇨🇷` **Costa Rica** | 🇨🇺 `🇨🇺` **Cuba** | 🇨🇻 `🇨🇻` **Cape Verde** |
 | 🇨🇼 `🇨🇼` **Curaçao** | 🇨🇽 `🇨🇽` **Christmas Island** | 🇨🇾 `🇨🇾` **Cyprus** |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇨🇿 `🇨🇿` **Czechia** | 🇩🇪 `🇩🇪` **Germany** | 🇩🇯 `🇩🇯` **Djibouti** |
+| 🇩🇰 `🇩🇰` **Denmark** | 🇩🇲 `🇩🇲` **Dominica** | 🇩🇴 `🇩🇴` **Dominican Republic** |
+| 🇩🇿 `🇩🇿` **Algeria** | 🇪🇨 `🇪🇨` **Ecuador** | 🇪🇪 `🇪🇪` **Estonia** |
+| 🇪🇬 `🇪🇬` **Egypt** | 🇪🇭 `🇪🇭` **Western Sahara** | 🇪🇷 `🇪🇷` **Eritrea** |
+| 🇪🇸 `🇪🇸` **Spain** | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 `🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿` **England** | 🇪🇹 `🇪🇹` **Ethiopia** |
+| 🇪🇺 `🇪🇺` **European Union** | 🇫🇮 `🇫🇮` **Finland** | 🇫🇯 `🇫🇯` **Fiji** |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 
@@ -163,24 +163,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 
 
 
-
-🇨🇾 Flag: Cyprus
-🇨🇿 Flag: Czechia
-🇩🇪 Flag: Germany
-🇩🇯 Flag: Djibouti
-🇩🇰 Flag: Denmark
-🇩🇲 Flag: Dominica
-🇩🇴 Flag: Dominican Republic
-🇩🇿 Flag: Algeria
-🇪🇨 Flag: Ecuador
-🇪🇪 Flag: Estonia
-🇪🇬 Flag: Egypt
-🇪🇭 Flag: Western Sahara
-🇪🇷 Flag: Eritrea
-🇪🇸 Flag: Spain
-🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England
-🇪🇹 Flag: Ethiopia
-🇪🇺 Flag: European Union
 🇫🇮 Flag: Finland
 🇫🇯 Flag: Fiji
 🇫🇰 Flag: Falkland Islands
