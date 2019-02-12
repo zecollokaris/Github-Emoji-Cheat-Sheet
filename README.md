@@ -196,9 +196,9 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🇷🇸 `🇷🇸` **Serbia** | 🇷🇺 `🇷🇺` **Russia** | 🇷🇼 `🇷🇼` **Rwanda** |
 | 🇸🇦 `🇸🇦` **Saudi Arabia** | 🇸🇧 `🇸🇧` **Solomon Islands** | 🇸🇨 `🇸🇨` **Seychelles** |
 | 🇸🇩 `🇸🇩` **Sudan** | 🇸🇪 `🇸🇪` **Sweden** | 🇸🇬 `🇸🇬` **Singapore** |
-| 🇸🇭 `🇸🇭` **St. Helena** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
-| :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
+| 🇸🇭 `🇸🇭` **St. Helena** | 🇸🇮 `🇸🇮` **Slovenia** | 🇸🇰 `🇸🇰` **Slovakia** |
+| 🇸🇱 `🇸🇱` **Sierra Leone** | 🇸🇲 `🇸🇲` **San Marino** | 🇸🇳 `🇸🇳` **Senegal** |
+| 🇸🇴 `🇸🇴` **Somalia** | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :checkered_flag: `:checkered_flag:` | :crossed_flags: `:crossed_flags:` |
@@ -211,14 +211,6 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | 🏁 `🏁` **Chequered Flag** | 🚩 `🚩` **Triangular Flag** | 🎌 `🎌` **Crossed Flags** |
 
 
-
-🇸🇭 Flag: St. Helena
-🇸🇮 Flag: Slovenia
-🇸🇰 Flag: Slovakia
-🇸🇱 Flag: Sierra Leone
-🇸🇲 Flag: San Marino
-🇸🇳 Flag: Senegal
-🇸🇴 Flag: Somalia
 🇸🇷 Flag: Suriname
 🇸🇸 Flag: South Sudan
 🇸🇹 Flag: São Tomé & Príncipe
