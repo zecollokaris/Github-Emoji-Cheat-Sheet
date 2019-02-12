@@ -374,7 +374,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :up: `:up:` | :cool: `:cool:` | :free: `:free:` |
 | :ng: `:ng:` | :cinema: `:cinema:` | :koko: `:koko:` |
 | :signal_strength: `:signal_strength:` | :u5272: `:u5272:` | :u5408: `:u5408:` |
-
+| :u55b6: `:u55b6:` | :u6307: `:u6307:` | :u6708: `:u6708:` |
 
 
 
