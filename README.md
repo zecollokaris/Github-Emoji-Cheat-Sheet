@@ -384,7 +384,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :potable_water: `:potable_water:` | :put_litter_in_its_place: `:put_litter_in_its_place:` | :secret: `:secret:` |
 | :congratulations: `:congratulations:` | :m: `:m:` | :passport_control: `:passport_control:` |
 | :left_luggage: `:left_luggage:` | :customs: `:customs:` | :ideograph_advantage: `:ideograph_advantage:` |
-
+| :cl: `:cl:` | :sos: `:sos:` | :id: `:id:` |
 
 
 
