@@ -396,7 +396,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :taurus: `:taurus:` | :gemini: `:gemini:` | :cancer: `:cancer:` |
 | :leo: `:leo:` | :virgo: `:virgo:` | :libra: `:libra:` |
 | :scorpius: `:scorpius:` | :sagittarius: `:sagittarius:` | :capricorn: `:capricorn:` |
-| :aquarius: `:aquarius:` | :pisces: `:pisces:` |
+| :aquarius: `:aquarius:` | :pisces: `:pisces:` | :ophiuchus: `:ophiuchus:` |
 
 
 
