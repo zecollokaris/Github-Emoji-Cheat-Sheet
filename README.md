@@ -398,10 +398,30 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :scorpius: `:scorpius:` | :sagittarius: `:sagittarius:` | :capricorn: `:capricorn:` |
 | :aquarius: `:aquarius:` | :pisces: `:pisces:` | :ophiuchus: `:ophiuchus:` |
 | :six_pointed_star: `:six_pointed_star:` | :negative_squared_cross_mark: `:negative_squared_cross_mark:` | :a: `:a:` |
-
-
-
-
+| :b: `:b:` | :ab: `:ab:` | :o2: `:o2:` |
+| :diamond_shape_with_a_dot_inside: `:diamond_shape_with_a_dot_inside:` | :recycle: `:recycle:` | :end: `:end:` |
+| :on: `:on:` | :soon: `:soon:` | :clock1: `:clock1:` |
+| :clock130: `:clock130:` | :clock10: `:clock10:` | :clock1030: `:clock1030:` |
+| :clock11: `:clock11:` | :clock1130: `:clock1130:` | :clock12: `:clock12:` |
+| :clock1230: `:clock1230:` | :clock2: `:clock2:` | :clock230: `:clock230:` |
+| :clock3: `:clock3:` | :clock330: `:clock330:` | :clock4: `:clock4:` |
+| :clock430: `:clock430:` | :clock5: `:clock5:` | :clock530: `:clock530:` |
+| :clock6: `:clock6:` | :clock630: `:clock630:` | :clock7: `:clock7:` |
+| :clock730: `:clock730:` | :clock8: `:clock8:` | :clock830: `:clock830:` |
+| :clock9: `:clock9:` | :clock930: `:clock930:` | :heavy_dollar_sign: `:heavy_dollar_sign:` |
+| :copyright: `:copyright:` | :registered: `:registered:` | :tm: `:tm:` |
+| :x: `:x:` | :heavy_exclamation_mark: `:heavy_exclamation_mark:` | :bangbang: `:bangbang:` |
+| :interrobang: `:interrobang:` | :o: `:o:` | :heavy_multiplication_x: `:heavy_multiplication_x:` |
+| :heavy_plus_sign: `:heavy_plus_sign:` | :heavy_minus_sign: `:heavy_minus_sign:` | :heavy_division_sign: `:heavy_division_sign:` |
+| :white_flower: `:white_flower:` | :100: `:100:` | :heavy_check_mark: `:heavy_check_mark:` |
+| :ballot_box_with_check: `:ballot_box_with_check:` | :radio_button: `:radio_button:` | :link: `:link:` |
+| :curly_loop: `:curly_loop:` | :wavy_dash: `:wavy_dash:` | :part_alternation_mark: `:part_alternation_mark:` |
+| :trident: `:trident:` | :black_square: `:black_square:` | :white_square: `:white_square:` |
+| :white_check_mark: `:white_check_mark:` | :black_square_button: `:black_square_button:` | :white_square_button: `:white_square_button:` |
+| :black_circle: `:black_circle:` | :white_circle: `:white_circle:` | :red_circle: `:red_circle:` |
+| :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
+| :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
+| :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
 ## Contributing
 
