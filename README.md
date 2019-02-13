@@ -397,7 +397,7 @@ Anyway I just remembered how I really strugged at first to get emojis on github.
 | :leo: `:leo:` | :virgo: `:virgo:` | :libra: `:libra:` |
 | :scorpius: `:scorpius:` | :sagittarius: `:sagittarius:` | :capricorn: `:capricorn:` |
 | :aquarius: `:aquarius:` | :pisces: `:pisces:` | :ophiuchus: `:ophiuchus:` |
-| :six_pointed_star: `:six_pointed_star:` 
+| :six_pointed_star: `:six_pointed_star:` | :negative_squared_cross_mark: `:negative_squared_cross_mark:` |
 
 
 
